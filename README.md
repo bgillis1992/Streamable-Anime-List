@@ -29,6 +29,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bakuman. 3 Specials
 - Bakuon!!
 - Big Order (TV)
+- Black Lagoon
 - Bleach
 - Blue Exorcist
 - Bokura wa Minna Kawaisou
@@ -38,7 +39,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Byousoku 5 Centimeter
 
 ### C
-- Chuunibyou
+- Chuunibyou demo Koi ga Shitai
 - Clannad
 - Clannad: After Story
 - Clannad movie
@@ -50,6 +51,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Darker than Black: Kuro no Keiyakusha
 - Deadman Wonderland
 - Death Note
+- Death Parade
+- Dragon Ball Z
 - Durarara!!
 
 ### E
@@ -79,8 +82,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - High School DxD
 - High School Fleet
 - High School of the Dead
+- Higurashi no Naku Koro ni
 - Howl no Ugoku Shiro
 - Hundred
+- Hunter x Hunter (2011)
 - Hyouka
 
 ### I
@@ -97,6 +102,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - K-On
 - Kaichou wa Maid-sama
 - Kill la Kill
+- Kiseijuu: Sei no Kakuritsu
 - Kiznaiver
 - Kono Subarashii Sekai ni Shukufuku wo!
 - Koutetsujou no Kabaneri
@@ -110,6 +116,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Kuroshitsuji Special
 - Kuroshitsuji: Book of Circus
 - Kuroshitsuji: Book of Murder
+- Kyoukai no Kanata
 
 ### L
 - Log Horizon
@@ -165,7 +172,6 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Owarimonogatari
 
 ### P
-- Parasyte: The Maxim
 - Princess Mononoke
 - Psycho Pass
 
@@ -178,9 +184,11 @@ IS: Infinite Stratos 2 - World Purge-hen
 
 ### S
 - Sakamoto desu ga?
+- Sakurasou no Pet na Kanojo
 - Samurai Champloo
 - Sansha Sanyou
 - Seisen Cerberus: Ryuukoku no Fatalités
+- Shigatsu wa Kimi no Uso
 - Shingeki no Kyojin
 - Shounen Maid
 - Soul Eater
@@ -198,6 +206,8 @@ IS: Infinite Stratos 2 - World Purge-hen
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
 - Tokyo Ghoul
+- Tokyo Ghoul √A
+- Tonari no Kaibutsu-kun
 - Toradora!
 - Tsukimonogatari
 
@@ -221,3 +231,4 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
 
 ###### Z
+- Zero no Tsukaima
