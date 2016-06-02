@@ -188,12 +188,12 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Samurai Champloo
 - Sansha Sanyou
 - Seisen Cerberus: Ryuukoku no Fatalités
+- Sen to Chiharu no Kamikushi
 - Shigatsu wa Kimi no Uso
 - Shingeki no Kyojin
 - Shounen Maid
 - Soul Eater
 - Sousei no Onmyouji
-- Spirited Away
 - Steins;Gate
 - Super Lovers
 - Sword Art Online
@@ -230,5 +230,5 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
 
-###### Z
+### Z
 - Zero no Tsukaima
