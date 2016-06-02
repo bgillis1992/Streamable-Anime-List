@@ -1,4 +1,8 @@
-# Streamable-Anime-List
+# Streamable Anime
+
+Below is the list of anime that can be streamed. List is regularly updated, keep checking back.
+
+---
 
 - Absolute Duo
 - Acchi Kocchi (TV)
