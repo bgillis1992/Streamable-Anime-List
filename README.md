@@ -39,6 +39,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Endride
 - Fairy Tail
 - Fate/Zero
+- Fate/stay night
 - Flying Witch
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
