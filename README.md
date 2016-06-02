@@ -80,6 +80,18 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mushishi Zoku Shou 2nd Season
 - Mushishi Zoku Shou: Suzu no Shizuku
 - Naruto
+- Naruto: Finally a Clash!! Jounin vs. Genin!
+- Naruto: Find the Crimson Four-leaf Clover!
+- Naruto: Movie 1 - Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!
+- Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
+- Naruto: Movie 3 - Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!
+- Naruto: Shippuuden
+- Naruto: Shippuuden - Jump Super Anime Tour 2013 Special
+- Naruto: Shippuuden Movie 1
+- Naruto: Shippuuden Movie 2 - Kizuna
+- Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono
+- Naruto: Shippuuden Movie 5 - Blood Prison
+- Naruto: Shippuuden Movie 6 - Road to Ninja
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
