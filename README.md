@@ -6,6 +6,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### A
 - Absolute Duo
+- Accel World
+- Accel World: Acchel World.
+- Accel World EX
 - Acchi Kocchi (TV)
 - Acchi Kocchi (TV): Place=Princess
 - Akagami no Shirayuki-hime
@@ -32,17 +35,19 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bokurano
 - Brotherhood: Final Fantasy XV
 - Bungou Stray Dogs
+- Byousoku 5 Centimeter
 
 ### C
 - Chuunibyou
 - Clannad
-- Clannad Afterstory
+- Clannad: After Story
 - Clannad movie
 - Code Geass
 - Code Geass 2
 - Cowboy Bebop
 
 ### D
+- Darker than Black: Kuro no Keiyakusha
 - Deadman Wonderland
 - Death Note
 - Durarara!!
@@ -55,6 +60,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Fairy Tail
 - Fate/Zero
 - Fate/stay night
+- FLCL
 - Flying Witch
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
@@ -77,7 +83,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hundred
 - Hyouka
 
-###### I
+### I
+IS: Infinite Stratos
+IS: Infinite Stratos 2
+IS: Infinite Stratos 2 - Hitonatsu no Omoide
+IS: Infinite Stratos 2 - World Purge-hen
 
 ### J
 - JoJo no Kimyou na Bouken: Diamond wa Kudakenai
