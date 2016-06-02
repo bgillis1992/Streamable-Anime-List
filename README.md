@@ -38,6 +38,10 @@
 - Flying Witch
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
+- Gintama
+- Gintama'
+- Gintama': Enchousen
+- Gintama°
 - Guilty Crown
 - Gurren Lagann
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
