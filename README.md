@@ -78,6 +78,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Fullmetal Alchemist: Brotherhood
 
 ### G
+- Gake no Ue no Ponyo
 - Gintama
 - Gintama'
 - Gintama': Enchousen
@@ -93,6 +94,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - High School Fleet
 - High School of the Dead
 - Higurashi no Naku Koro ni
+- Hotaru no Haka
 - Howl no Ugoku Shiro
 - Hundred
 - Hunter x Hunter (2011)
@@ -111,6 +113,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### K
 - K-On
 - Kaichou wa Maid-sama
+- Karigurashi no Arrietty
 - Kill la Kill
 - Kimi ni Todoke
 - Kiseijuu: Sei no Kakuritsu
@@ -141,8 +144,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Magi: Sinbad no Bouken (TV)
 - Magi: The Labyrinth of Magic
 - Mahouka Koukou no Rettousei
+- Majo no Takkyuubin
 - Mirai Nikki
 - Monogatari Series: Second season
+- Mononoke Hime
 - Mushishi
 - Mushishi Shou Special
 - Mushishi Special: Hihamukage
@@ -180,6 +185,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - One Piece
 - One Punch Man
 - Onigiri
+- Ookami Kodomo no Ame to Yuki
 - Ookami to Koushinryou
 - Ookami to Koushinryou II
 - Ookami to Koushinryou II Specials
@@ -189,7 +195,6 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Owarimonogatari
 
 ### P
-- Princess Mononoke
 - Psycho Pass
 
 ###### Q
@@ -232,6 +237,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Tokyo Ghoul
 - Tokyo Ghoul √A
 - Tonari no Kaibutsu-kun
+- Tonari no Totoro
 - Toradora!
 - Tsukimonogatari
 
