@@ -196,6 +196,27 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### P
 - Psycho Pass
+- Pokemon
+- Pokemon Advanced Generation
+- Pokemon Best Wishes!
+- Pokemon Best Wishes! Season 2
+- Pokemon Best Wishes! Season 2: Decolora Adventure
+- Pokemon Best Wishes! Season 2: Episode N
+- Pokemon Best Wishes!: Victini to Kuroki Eiyuu Zekrom
+- Pokemon Best Wishes!: Victini to Shiroki Eiyuu Reshiram
+- Pokemon XY
+- Pokemon XY&Z
+- Pokemon: Kesshoutou no Teiou Entei
+- Pokemon: Mewtwo no Gyakushuu
+- Pokemon: Mewtwo! Ware wa Koko ni Ari
+- Pokemon: Mizu no Miyako no Mamorigami Latias to Latios
+- Pokemon: Senritsu no Mirage Pokemon
+- Pokemon: The Origin
+- Pokemon Advanced Generation: Mew to Hadou no Yuusha Lucario
+- Pokemon Advanced Generation: Pokemon Ranger to Umi no Ouji Manaphy
+- Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys
+- Pokemon Diamond & Pearl: Arceus Choukoku no Jikuu e
+- Pokemon Diamond & Pearl: Dialga vs. Palkia vs. Darkrai
 
 ###### Q
 
