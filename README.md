@@ -22,6 +22,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### B
 - Baccano!
+- Baka to Test to Shoukanjuu
 - Bakemonogatari
 - Bakuman.
 - Bakuman. 2
@@ -29,12 +30,16 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bakuman. 3 Specials
 - Bakuon!!
 - Big Order (TV)
+- Black Bullet
 - Black Lagoon
 - Bleach
 - Blue Exorcist
+- Boku dake ga Inai Machi
+- Boku wa Tomodachi ga Sukunai
 - Bokura wa Minna Kawaisou
 - Bokurano
 - Brotherhood: Final Fantasy XV
+- Btooom!
 - Bungou Stray Dogs
 - Byousoku 5 Centimeter
 
@@ -43,16 +48,20 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Clannad
 - Clannad: After Story
 - Clannad movie
+- Claymore
 - Code Geass
 - Code Geass 2
 - Cowboy Bebop
 
 ### D
+- D.Gray-man
 - Darker than Black: Kuro no Keiyakusha
 - Deadman Wonderland
 - Death Note
 - Death Parade
+- Dragon Ball
 - Dragon Ball Z
+- Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka?
 - Durarara!!
 
 ### E
@@ -79,6 +88,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### H
 - Hanamonogatari
+- Hellsing
 - High School DxD
 - High School Fleet
 - High School of the Dead
@@ -89,10 +99,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hyouka
 
 ### I
-IS: Infinite Stratos
-IS: Infinite Stratos 2
-IS: Infinite Stratos 2 - Hitonatsu no Omoide
-IS: Infinite Stratos 2 - World Purge-hen
+- IS: Infinite Stratos
+- IS: Infinite Stratos 2
+- IS: Infinite Stratos 2 - Hitonatsu no Omoide
+- IS: Infinite Stratos 2 - World Purge-hen
 
 ### J
 - JoJo no Kimyou na Bouken: Diamond wa Kudakenai
@@ -102,13 +112,16 @@ IS: Infinite Stratos 2 - World Purge-hen
 - K-On
 - Kaichou wa Maid-sama
 - Kill la Kill
+- Kimi ni Todoke
 - Kiseijuu: Sei no Kakuritsu
 - Kiznaiver
 - Kono Subarashii Sekai ni Shukufuku wo!
+- Kore wa Zombie Desu ka?
 - Koutetsujou no Kabaneri
 - Koyomimonogatari
 - Kuromukuro
 - Kuma Miko
+- Kuroko no Basket
 - Kuroshitsuji
 - Kuroshitsuji II
 - Kuroshitsuji II Specials
@@ -121,10 +134,12 @@ IS: Infinite Stratos 2 - World Purge-hen
 ### L
 - Log Horizon
 - Log Horizon 2nd Season
+- Lucky Star
 
 ### M
 - Madoka Magica
 - Magi: Sinbad no Bouken (TV)
+- Magi: The Labyrinth of Magic
 - Mahouka Koukou no Rettousei
 - Mirai Nikki
 - Monogatari Series: Second season
@@ -154,6 +169,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
 - Nichijou
 - Nichijou: Nichijou no 0-wa
+- Nisekoi
 - Nisemonogatari
 - No Game No Life
 - Noragami
@@ -168,6 +184,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Ookami to Koushinryou II
 - Ookami to Koushinryou II Specials
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
+- Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
 - Owarimonogatari
 
@@ -181,6 +198,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Ragnastrike Angels
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
+- Rosario to Vampire
 
 ### S
 - Sakamoto desu ga?
@@ -189,6 +207,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Sansha Sanyou
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Sen to Chiharu no Kamikushi
+- Shakugan no Shana
 - Shigatsu wa Kimi no Uso
 - Shingeki no Kyojin
 - Shounen Maid
@@ -205,6 +224,7 @@ IS: Infinite Stratos 2 - World Purge-hen
 - The Devil is a Part-Timer!
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
+- Toaru Majutsu no Index
 - Tokyo Ghoul
 - Tokyo Ghoul √A
 - Tonari no Kaibutsu-kun
@@ -218,7 +238,8 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
 - Uta no☆Prince-sama♪ Maji Love Revolutions
 
-###### V
+### V
+- Vampire Knight
 
 ### W
 - Wagamama High Spec
@@ -231,4 +252,5 @@ IS: Infinite Stratos 2 - World Purge-hen
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
 
 ### Z
+- Zankyou no Terror
 - Zero no Tsukaima
