@@ -214,6 +214,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Soul Eater
 - Sousei no Onmyouji
 - Steins;Gate
+- Steins;Gate: Fuka Ryouiki no Déjà vu
+- Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
+- Steins;Gate: Oukoubakko no Poriomania
+- Steins;Gate: Soumei Eichi no Cognitive Computing
 - Super Lovers
 - Sword Art Online
 - Sword Art Online II
