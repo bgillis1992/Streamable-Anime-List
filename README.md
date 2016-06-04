@@ -14,6 +14,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akagami no Shirayuki-hime
 - Akagami no Shirayuki-hime 2nd Season
 - Akame ga Kill
+- Aki-Sora
+- Aki-Sora: Yume no Naka
 - Angel Beats!
 - Anne Happy♪
 - Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
@@ -94,7 +96,15 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hellsing
 - High School DxD
 - High School Fleet
-- High School of the Dead
+- Highschool of the Dead
+- Highschool of the Dead: Drifters of the Dead
+- High School DxD Specials
+- High School DxD OVA
+- High School DxD BorN
+- High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video
+- High School DxD BorN: Yomigaeranai Fushichou
+- High School DxD New
+- High School DxD New: Oppai, Tsutsumimasu!
 - Higurashi no Naku Koro ni
 - Hotaru no Haka
 - Howl no Ugoku Shiro
@@ -104,6 +114,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### I
 - IS: Infinite Stratos
+- IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - IS: Infinite Stratos 2
 - IS: Infinite Stratos 2 - Hitonatsu no Omoide
 - IS: Infinite Stratos 2 - World Purge-hen
@@ -231,6 +242,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ragnastrike Angels
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
+- Rokka no Yuusha
 - Rosario to Vampire
 
 ### S
@@ -244,6 +256,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Shigatsu wa Kimi no Uso
 - Shingeki no Kyojin
 - Shounen Maid
+- Sora no Otoshimono
+- Sora no Otoshimono: Forte
+- Sora no Otoshimono: Project Pink
+- Sora no Otoshimono: Tokeijikake no Angeloid
+- Sora no Otoshimono Final: Eternal My Master
 - Soul Eater
 - Sousei no Onmyouji
 - Steins;Gate
@@ -267,6 +284,13 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Tonari no Kaibutsu-kun
 - Tonari no Totoro
 - Toradora!
+- To LOVE-Ru
+- To LOVE-Ru OVA
+- To LOVE-Ru Darkness
+- To LOVE-Ru Darkness OVA
+- To LOVE-Ru Darkness 2nd
+- To LOVE-Ru Darkness 2nd Specials
+- To LOVE-Ru Darkness 2nd OVA
 - Tsukimonogatari
 
 ### U
