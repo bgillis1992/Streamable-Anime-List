@@ -61,6 +61,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Death Parade
 - Dragon Ball
 - Dragon Ball Z
+- Druaga no Tou: The Aegis of Uruk
+- Druaga no Tou: The Sword of Uruk
 - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka?
 - Durarara!!
 
@@ -144,7 +146,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Magi: Sinbad no Bouken (TV)
 - Magi: The Labyrinth of Magic
 - Mahouka Koukou no Rettousei
+- Maicching Machiko Sensei
 - Majo no Takkyuubin
+- Mayoiga
 - Mirai Nikki
 - Monogatari Series: Second season
 - Mononoke Hime
@@ -207,6 +211,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Pokemon Best Wishes! Season 2: Episode N
 - Pokemon Best Wishes!: Victini to Kuroki Eiyuu Zekrom
 - Pokemon Best Wishes!: Victini to Shiroki Eiyuu Reshiram
+- Pokemon Diamond & Pearl
 - Pokemon Diamond & Pearl: Arceus Choukoku no Jikuu e
 - Pokemon Diamond & Pearl: Dialga vs. Palkia vs. Darkrai
 - Pokemon Diamond & Pearl: Giratina to Sora no Hanataba Sheimi
