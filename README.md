@@ -25,6 +25,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akaneiro ni Somaru Saka: Hardcore
 - Aki-Sora
 - Aki-Sora: Yume no Naka
+- Aldnoah.Zero
 - Amaenaide yo!!
 - Amaenaide yo!!: Yasumanaide yo!!
 - Amaenaide yo!! Katsu!!
@@ -76,6 +77,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Byousoku 5 Centimeter
 
 ### C
+- Charlotte
+- Chobits
 - Chuunibyou demo Koi ga Shitai
 - Clannad
 - Clannad: After Story
@@ -87,7 +90,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### D
 - D.Gray-man
+- Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+- Danshi Koukousei no Nichijou
 - Darker than Black: Kuro no Keiyakusha
+- Date A Live
 - Deadman Wonderland
 - Death Note
 - Death Parade
@@ -104,14 +110,21 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Earthian
 - Elfen Lied
 - Endride
+- Ergo Proxy
+- Eureka Seven
 
 ### F
 - Fairy Tail
 - Fake
 - Fate/Zero
 - Fate/stay night
+- Fate/stay night: Unlimited Blade Works
 - FLCL
 - Flying Witch
+- Free!
+- Free!: Eternal Summer
+- Fruits Basket
+- Full Metal Panic!
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
 - Fuyu no Semi
@@ -121,20 +134,26 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gakuen Heaven
 - Gakusen Toshi Asterisk
 - Gakusen Toshi Asterisk 2nd Season
+- Gekkan Shoujo Nozaki-kun
 - Gintama
 - Gintama'
 - Gintama': Enchousen
 - Gintama°
+- Golden Time
 - Gravitation
 - Gravitation: Lyrics of Love
+- Great Teacher Onizuka
 - Guilty Crown
 - Gurren Lagann
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
 ### H
+- Haikyuu!!
 - Hanamonogatari
 - Haru wo Daite Ita
 - Hellsing
+- Hellsing Ultimate
+- Higashi no Eden
 - High School DxD
 - High School Fleet
 - Highschool of the Dead
@@ -159,6 +178,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### I
 - Ikoku Irokoi Romantan
+- InuYasha
 - IS: Infinite Stratos
 - IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - IS: Infinite Stratos 2
@@ -174,9 +194,13 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Junjou Romantica OVA
 
 ### K
-- K-On
+- K
+- K-On!
+- K-On!!
 - Kaichou wa Maid-sama
+- Kami nomi zo Shiru Sekai
 - Karigurashi no Arrietty
+- Katekyo Hitman Reborn!
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
 - Kill la Kill
 - Kimi ni Todoke
@@ -186,6 +210,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kizuna
 - Kizuna: Koi no kara Sawagi
 - Koisuru Boukun
+- Kokoro Connect
 - Kono Danshi, Mahou ga Oshigoto Desu.
 - Kono Danshi, Ningyo Hiroimashita.
 - Kono Danshi, Sekika ni Nayandemasu.
@@ -212,6 +237,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Love Stage!!
 - Love Stage!! OVA
 - Loveless
+- Lovely★Complex
 - Lucky Star
 
 ### M
@@ -227,6 +253,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Monochrome Factor
 - Monogatari Series: Second season
 - Mononoke Hime
+- Monster
 - Mushishi
 - Mushishi Shou Special
 - Mushishi Special: Hihamukage
@@ -235,6 +262,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mushishi Zoku Shou: Suzu no Shizuku
 
 ### N
+- Nanatsu no Taizai
 - Naruto
 - Naruto: Finally a Clash!! Jounin vs. Genin!
 - Naruto: Find the Crimson Four-leaf Clover!
@@ -251,6 +279,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
+- NHK ni Youkoso!
 - Nichijou
 - Nichijou: Nichijou no 0-wa
 - Nisekoi
@@ -272,6 +301,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
+- Owari no Seraph
 - Owarimonogatari
 
 ### P
@@ -320,6 +350,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sakurasou no Pet na Kanojo
 - Samurai Champloo
 - Sansha Sanyou
+- School Days
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Seitokaichou ni Chuukoku
 - Seiyou Kottou Yougashiten: Antique
@@ -332,6 +363,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Shakugan no Shana
 - Shigatsu wa Kimi no Uso
 - Shingeki no Kyojin
+- Shinsekai yori
+- Shokugeki no Souma
 - Shounen Maid
 - Sora no Otoshimono
 - Sora no Otoshimono: Forte
@@ -356,8 +389,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - The Devil is a Part-Timer!
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
+- The Melancholy of Haruhi Suzumiya (2009)
 - Toaru Majutsu no Index
 - Togainu no Chi
+- Toki wo Kakeru Shoujo
 - Tokyo Ghoul
 - Tokyo Ghoul √A
 - Tonari no Kaibutsu-kun
@@ -370,6 +405,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - To LOVE-Ru Darkness 2nd
 - To LOVE-Ru Darkness 2nd Specials
 - To LOVE-Ru Darkness 2nd OVA
+- Trigun
 - Tsukimonogatari
 
 ### U
@@ -386,6 +422,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### W
 - Wagamama High Spec
+- Watamote
 - Wild Adapter
 
 ###### X
@@ -400,4 +437,6 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### Z
 - Zankyou no Terror
 - Zero no Tsukaima
+- Zero no Tsukaima: Futatsuki no Kishi
 - Zetsuai 1989
+- Zetsuen no Tempest
