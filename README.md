@@ -5,25 +5,44 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ---
 
 ### A
+- Ai no Kusabi
+- Ai no Kusabi (2012)
+- Ai Yori Aoshi
+- Ai Yori Aoshi: Enishi
+- Ai Yori Aoshi: Enishi - Miyuki
 - Absolute Duo
 - Accel World
 - Accel World: Acchel World.
 - Accel World EX
 - Acchi Kocchi (TV)
-- Ai no Kusabi
-- Ai no Kusabi (2012)
 - Acchi Kocchi (TV): Place=Princess
+- Aishen Qiaokeli-ing...
 - Akagami no Shirayuki-hime
+- Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 - Akagami no Shirayuki-hime 2nd Season
 - Akame ga Kill
+- Akaneiro ni Somaru Saka
+- Akaneiro ni Somaru Saka: Hardcore
 - Aki-Sora
 - Aki-Sora: Yume no Naka
+- Amaenaide yo!!
+- Amaenaide yo!!: Yasumanaide yo!!
+- Amaenaide yo!! Katsu!!
+- Amaenaide yo!! Katsu!!: Damasarenaide yo!!
+- Amagi Brilliant Park
+- Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!
 - Angel Beats!
+- Angel Beats! Specials
+- Angel Beats!: Another Epilogue
 - Angel’s Feather
 - Anne Happy♪
 - Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 - Another
 - Ansatsu Kyoushitsu
+- Ansatsu Kyoushitsu (TV): Deai no Jikan
+- Arakawa Under the Bridge
+- Arakawa Under the Bridge x Bridge
+- Asu no Yoichi!
 
 ### B
 - Baccano!
@@ -34,6 +53,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bakuman. 2 Special
 - Bakuman. 3 Specials
 - Bakuon!!
+- Barakamon
+- Beelzebub
+- Beelzebub: Hirotta Akachan wa Daimaou!?
 - Big Order (TV)
 - Black Bullet
 - Black Lagoon
@@ -44,6 +66,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Boku wa Tomodachi ga Sukunai
 - Bokura wa Minna Kawaisou
 - Bokurano
+- Boku wa Tomodachi ga Sukunai Episode 0
+- Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
+- Boku wa Tomodachi ga Sukunai Next
 - Bronze: Zetsuai Since 1989
 - Brotherhood: Final Fantasy XV
 - Btooom!
