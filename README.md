@@ -10,6 +10,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Accel World: Acchel World.
 - Accel World EX
 - Acchi Kocchi (TV)
+- Ai no Kusabi
+- Ai no Kusabi (2012)
 - Acchi Kocchi (TV): Place=Princess
 - Akagami no Shirayuki-hime
 - Akagami no Shirayuki-hime 2nd Season
@@ -17,6 +19,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Aki-Sora
 - Aki-Sora: Yume no Naka
 - Angel Beats!
+- Angel’s Feather
 - Anne Happy♪
 - Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 - Another
@@ -37,9 +40,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bleach
 - Blue Exorcist
 - Boku dake ga Inai Machi
+- Boku wa Konomama Kaeranai
 - Boku wa Tomodachi ga Sukunai
 - Bokura wa Minna Kawaisou
 - Bokurano
+- Bronze: Zetsuai Since 1989
 - Brotherhood: Final Fantasy XV
 - Btooom!
 - Bungou Stray Dogs
@@ -61,38 +66,47 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Deadman Wonderland
 - Death Note
 - Death Parade
+- Doukyuusei (Movie)
 - Dragon Ball
 - Dragon Ball Z
+- DRAMAtical Murder OVA: Data_xx_Transitory
 - Druaga no Tou: The Aegis of Uruk
 - Druaga no Tou: The Sword of Uruk
 - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka?
 - Durarara!!
 
 ### E
+- Earthian
 - Elfen Lied
 - Endride
 
 ### F
 - Fairy Tail
+- Fake
 - Fate/Zero
 - Fate/stay night
 - FLCL
 - Flying Witch
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
+- Fuyu no Semi
 
 ### G
 - Gake no Ue no Ponyo
+- Gakuen Heaven
 - Gintama
 - Gintama'
 - Gintama': Enchousen
 - Gintama°
+- Gravitation
+- Gravitation: Lyrics of Love
 - Guilty Crown
 - Gurren Lagann
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
 ### H
 - Hanamonogatari
+- Haru wo Daite Ita
 - Hellsing
 - High School DxD
 - High School Fleet
@@ -106,13 +120,18 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - High School DxD New
 - High School DxD New: Oppai, Tsutsumimasu!
 - Higurashi no Naku Koro ni
+- Honoo no Mirage
+- Honoo no Mirage: Minagiwa no Hangyakusha
 - Hotaru no Haka
 - Howl no Ugoku Shiro
 - Hundred
 - Hunter x Hunter (2011)
+- Hyakujitsu no Bara
+- Hybrid Child
 - Hyouka
 
 ### I
+- Ikoku Irokoi Romantan
 - IS: Infinite Stratos
 - IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - IS: Infinite Stratos 2
@@ -122,15 +141,27 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### J
 - JoJo no Kimyou na Bouken: Diamond wa Kudakenai
 - Joker Game
+- Junjou Romantica
+- Junjou Romantica 2
+- Junjou Romantica 3
+- Junjou Romantica OVA
 
 ### K
 - K-On
 - Kaichou wa Maid-sama
 - Karigurashi no Arrietty
+- Kaze to Ki no Uta Sanctus: Sei Naru Kana
 - Kill la Kill
 - Kimi ni Todoke
+- Kirepapa 
 - Kiseijuu: Sei no Kakuritsu
 - Kiznaiver
+- Kizuna
+- Kizuna: Koi no kara Sawagi
+- Koisuru Boukun
+- Kono Danshi, Mahou ga Oshigoto Desu.
+- Kono Danshi, Ningyo Hiroimashita.
+- Kono Danshi, Sekika ni Nayandemasu.
 - Kono Subarashii Sekai ni Shukufuku wo!
 - Kore wa Zombie Desu ka?
 - Koutetsujou no Kabaneri
@@ -148,8 +179,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kyoukai no Kanata
 
 ### L
+- Legend of Duo
 - Log Horizon
 - Log Horizon 2nd Season
+- Love Stage!!
+- Love Stage!! OVA
+- Loveless
 - Lucky Star
 
 ### M
@@ -159,8 +194,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mahouka Koukou no Rettousei
 - Maicching Machiko Sensei
 - Majo no Takkyuubin
+- Marginal Prince: Gekkeiju no Ouji-tachi
 - Mayoiga
 - Mirai Nikki
+- Monochrome Factor
 - Monogatari Series: Second season
 - Mononoke Hime
 - Mushishi
@@ -197,6 +234,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Noragami OVA
 
 ### O
+- Okane ga Nai
 - One Piece
 - One Punch Man
 - Onigiri
@@ -210,7 +248,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Owarimonogatari
 
 ### P
-- Psycho Pass
+- Papa to Kiss in the Dark
+- Patalliro!
+- Patalliro Saiyuuki!
 - Pokemon
 - Pokemon Advanced Generation
 - Pokemon Advanced Generation: Mew to Hadou no Yuusha Lucario
@@ -234,6 +274,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Pokemon: Mizu no Miyako no Mamorigami Latias to Latios
 - Pokemon: Senritsu no Mirage Pokemon
 - Pokemon: The Origin
+- Psycho Pass
 
 
 ###### Q
@@ -242,16 +283,25 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ragnastrike Angels
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
+- Robotica*Robotics
 - Rokka no Yuusha
 - Rosario to Vampire
 
 ### S
+- Saigo no Door wo Shimero!
 - Sakamoto desu ga?
 - Sakurasou no Pet na Kanojo
 - Samurai Champloo
 - Sansha Sanyou
 - Seisen Cerberus: Ryuukoku no Fatalités
+- Seitokaichou ni Chuukoku
+- Seiyou Kottou Yougashiten: Antique
+- Sekaiichi Hatsukoi
+- Sekaiichi Hatsukoi 2
+- Sekaiichi Hatsukoi OVA
+- Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
 - Sen to Chiharu no Kamikushi
+- Sex Pistols
 - Shakugan no Shana
 - Shigatsu wa Kimi no Uso
 - Shingeki no Kyojin
@@ -268,6 +318,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
 - Steins;Gate: Oukoubakko no Poriomania
 - Steins;Gate: Soumei Eichi no Cognitive Computing
+- Suki na Mono wa Suki Dakara Shou ga Nai!!
 - Super Lovers
 - Sword Art Online
 - Sword Art Online II
@@ -279,6 +330,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
 - Toaru Majutsu no Index
+- Togainu no Chi
 - Tokyo Ghoul
 - Tokyo Ghoul √A
 - Tonari no Kaibutsu-kun
@@ -299,12 +351,15 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Uta no☆Prince-sama♪ Maji Love 2000%
 - Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
 - Uta no☆Prince-sama♪ Maji Love Revolutions
+- Uragiri wa Boku no Namae wo Shitteiru
 
 ### V
 - Vampire Knight
+- Vassalord.
 
 ### W
 - Wagamama High Spec
+- Wild Adapter
 
 ###### X
 
@@ -312,7 +367,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+- Yami no Matsuei
+- Yebisu Celebrities
 
 ### Z
 - Zankyou no Terror
 - Zero no Tsukaima
+- Zetsuai 1989
