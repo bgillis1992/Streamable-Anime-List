@@ -94,6 +94,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### G
 - Gake no Ue no Ponyo
 - Gakuen Heaven
+- Gakusen Toshi Asterisk
+- Gakusen Toshi Asterisk 2nd Season
 - Gintama
 - Gintama'
 - Gintama': Enchousen
