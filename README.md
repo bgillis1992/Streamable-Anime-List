@@ -43,6 +43,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ansatsu Kyoushitsu (TV): Deai no Jikan
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
+- Arslan Senki
 - Asu no Yoichi!
 
 ### B
@@ -97,6 +98,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Deadman Wonderland
 - Death Note
 - Death Parade
+- Diabolik Lovers
+- Diabolik Lovers More, Blood
+- Dimension W
+- Divine Gate
 - Doukyuusei (Movie)
 - Dragon Ball
 - Dragon Ball Z
@@ -249,6 +254,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Majo no Takkyuubin
 - Marginal Prince: Gekkeiju no Ouji-tachi
 - Mayoiga
+- Mekakucity Actors
 - Mirai Nikki
 - Monochrome Factor
 - Monogatari Series: Second season
@@ -262,6 +268,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mushishi Zoku Shou: Suzu no Shizuku
 
 ### N
+- Nagi no Asukara
 - Nanatsu no Taizai
 - Naruto
 - Naruto: Finally a Clash!! Jounin vs. Genin!
@@ -299,6 +306,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ookami to Koushinryou II
 - Ookami to Koushinryou II Specials
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
+- Ore Monogatari!!
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
 - Owari no Seraph
@@ -332,6 +340,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Pokemon: Senritsu no Mirage Pokemon
 - Pokemon: The Origin
 - Psycho Pass
+- Psycho Pass 2
 
 
 ###### Q
@@ -362,7 +371,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sex Pistols
 - Shakugan no Shana
 - Shigatsu wa Kimi no Uso
+- Shimoneta to lu Gainen ga Sonzai Shinai Taikutsu na Sekai
 - Shingeki no Kyojin
+- Shinmai Maou no Testament
+- Shinmai Maou no Testament Burst
 - Shinsekai yori
 - Shokugeki no Souma
 - Shounen Maid
@@ -431,8 +443,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+- Yamada-kun to 7-nin no Majo
 - Yami no Matsuei
 - Yebisu Celebrities
+- Yowamushi Pedal
+- Yowamushi Pedal: Grande Road
 
 ### Z
 - Zankyou no Terror
