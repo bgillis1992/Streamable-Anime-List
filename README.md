@@ -25,6 +25,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akaneiro ni Somaru Saka: Hardcore
 - Aki-Sora
 - Aki-Sora: Yume no Naka
+- Akuma no Riddle
 - Aldnoah.Zero
 - Amaenaide yo!!
 - Amaenaide yo!!: Yasumanaide yo!!
@@ -38,6 +39,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Angel’s Feather
 - Anne Happy♪
 - Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+- Ano Natsu de Matteru
 - Another
 - Ansatsu Kyoushitsu
 - Ansatsu Kyoushitsu (TV): Deai no Jikan
@@ -88,6 +90,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Code Geass
 - Code Geass 2
 - Cowboy Bebop
+- Cuticle Tantei Inaba
 
 ### D
 - D.Gray-man
@@ -98,10 +101,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Deadman Wonderland
 - Death Note
 - Death Parade
+- Denpa Onna to Seishun Otoko
 - Diabolik Lovers
 - Diabolik Lovers More, Blood
 - Dimension W
 - Divine Gate
+- Donten ni Warau
 - Doukyuusei (Movie)
 - Dragon Ball
 - Dragon Ball Z
@@ -163,10 +168,14 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### H
 - Haikyuu!!
+- Haikyuu!! Second Season
+- Hai to Gensou no Grimgar
+- Hamatora The Animation
 - Hanamonogatari
 - Haru wo Daite Ita
 - Hellsing
 - Hellsing Ultimate
+- Hentai Ouji to Warawanai Neko.
 - Higashi no Eden
 - High School DxD
 - High School Fleet
@@ -193,6 +202,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### I
 - Ikoku Irokoi Romantan
 - InuYasha
+- Inou-Battle wa Nichijou-kei no Naka de
 - IS: Infinite Stratos
 - IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - IS: Infinite Stratos 2
@@ -213,9 +223,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - K-On!!
 - Kaichou wa Maid-sama
 - Kami nomi zo Shiru Sekai
+- Kamisama Hajimemashita
+- Kamisama Hajimemashita Second Season
 - Karigurashi no Arrietty
 - Katekyo Hitman Reborn!
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
+- Kekkai Sensen
 - Kill la Kill
 - Kimi ni Todoke
 - Kirepapa
