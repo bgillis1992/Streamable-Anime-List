@@ -113,6 +113,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### E
 - Earthian
+- ef: A Tale of Memories.
+- ef: A Tale of Melodies.
 - Elfen Lied
 - Endride
 - Ergo Proxy
@@ -121,11 +123,16 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### F
 - Fairy Tail
 - Fake
-- Fate/Zero
+- Fate/kaleid liner Prisma☆Illya
+- Fate/kaleid liner Prisma☆Illya 2wei Herz!
+- Fate/kaleid liner Prisma☆Illya 2wei!
 - Fate/stay night
 - Fate/stay night: Unlimited Blade Works
+- Fate/Zero
 - FLCL
 - Flying Witch
+- Freezing
+- Freezing Vibrations
 - Free!
 - Free!: Eternal Summer
 - Fruits Basket
@@ -144,6 +151,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gintama'
 - Gintama': Enchousen
 - Gintama°
+- Gochuumon wa Usagi Desu ka?
+- Gochuumon wa Usagi Desu ka??
 - Golden Time
 - Gravitation
 - Gravitation: Lyrics of Love
@@ -209,7 +218,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
 - Kill la Kill
 - Kimi ni Todoke
-- Kirepapa 
+- Kirepapa
 - Kiseijuu: Sei no Kakuritsu
 - Kiznaiver
 - Kizuna
@@ -234,6 +243,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kuroshitsuji: Book of Circus
 - Kuroshitsuji: Book of Murder
 - Kyoukai no Kanata
+- K: Return of Kings
 
 ### L
 - Legend of Duo
@@ -283,6 +293,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono
 - Naruto: Shippuuden Movie 5 - Blood Prison
 - Naruto: Shippuuden Movie 6 - Road to Ninja
+- Natsume Yuujinchou
+- Natsume Yuujinchou San
+- Natsume Yuujinchou Shi
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
@@ -292,6 +305,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nisekoi
 - Nisemonogatari
 - No Game No Life
+- Non Non Biyori
+- Non Non Biyori Repeat
 - Noragami
 - Noragami Aragoto
 - Noragami OVA
@@ -310,6 +325,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
 - Owari no Seraph
+- Owari no Seraph: Nagoya Kessen-hen
 - Owarimonogatari
 
 ### P
@@ -339,6 +355,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Pokemon: Mizu no Miyako no Mamorigami Latias to Latios
 - Pokemon: Senritsu no Mirage Pokemon
 - Pokemon: The Origin
+- Prince of Stride: Alternative
+- Prison School
 - Psycho Pass
 - Psycho Pass 2
 
@@ -448,6 +466,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yebisu Celebrities
 - Yowamushi Pedal
 - Yowamushi Pedal: Grande Road
+- Yu☆Gi☆Oh! Duel Monsters
 
 ### Z
 - Zankyou no Terror
@@ -455,3 +474,4 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Zero no Tsukaima: Futatsuki no Kishi
 - Zetsuai 1989
 - Zetsuen no Tempest
+- Zoku Natsume Yuujinchou
