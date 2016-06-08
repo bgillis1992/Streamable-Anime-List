@@ -108,6 +108,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Divine Gate
 - Donten ni Warau
 - Doukyuusei (Movie)
+- Dr. Slump: Arale-chan
 - Dragon Ball
 - Dragon Ball Z
 - DRAMAtical Murder OVA: Data_xx_Transitory
@@ -151,6 +152,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gakuen Heaven
 - Gakusen Toshi Asterisk
 - Gakusen Toshi Asterisk 2nd Season
+- Gamba no Bouken
 - Gekkan Shoujo Nozaki-kun
 - Gintama
 - Gintama'
@@ -161,6 +163,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Golden Time
 - Gravitation
 - Gravitation: Lyrics of Love
+- Great Mazinger
 - Great Teacher Onizuka
 - Guilty Crown
 - Gurren Lagann
@@ -195,6 +198,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Howl no Ugoku Shiro
 - Hundred
 - Hunter x Hunter (2011)
+- Huyao Xiao Hongniang
 - Hyakujitsu no Bara
 - Hybrid Child
 - Hyouka
@@ -225,6 +229,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kami nomi zo Shiru Sekai
 - Kamisama Hajimemashita
 - Kamisama Hajimemashita Second Season
+- Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
 - Katekyo Hitman Reborn!
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
@@ -269,10 +274,13 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Lucky Star
 
 ### M
+- Macross Δ
 - Madoka Magica
 - Magi: Sinbad no Bouken (TV)
 - Magi: The Labyrinth of Magic
+- Mahou no Idol Pastel Yumi
 - Mahouka Koukou no Rettousei
+- Mahoutsukai Precure!
 - Maicching Machiko Sensei
 - Majo no Takkyuubin
 - Marginal Prince: Gekkeiju no Ouji-tachi
@@ -315,6 +323,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - NHK ni Youkoso!
 - Nichijou
 - Nichijou: Nichijou no 0-wa
+- Nijiiro Days
 - Nisekoi
 - Nisemonogatari
 - No Game No Life
@@ -342,6 +351,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Owarimonogatari
 
 ### P
+- Pan de Peace!
 - Papa to Kiss in the Dark
 - Patalliro!
 - Patalliro Saiyuuki!
@@ -386,6 +396,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### S
 - Saigo no Door wo Shimero!
+- Saint Seiya: Kamigami no Atsuki Tatakai
+- Saint Seiya: Shinku no Shounen Densetsu
+- Saint Seiya: Tenkai-hen Josou - Overture
 - Sakamoto desu ga?
 - Sakurasou no Pet na Kanojo
 - Samurai Champloo
@@ -479,7 +492,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yebisu Celebrities
 - Yowamushi Pedal
 - Yowamushi Pedal: Grande Road
+- Yu☆Gi☆Oh! Arc-V
 - Yu☆Gi☆Oh! Duel Monsters
+- Yuru Yuri
 
 ### Z
 - Zankyou no Terror
