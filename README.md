@@ -25,6 +25,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akaneiro ni Somaru Saka: Hardcore
 - Aki-Sora
 - Aki-Sora: Yume no Naka
+- Akira
 - Akuma no Riddle
 - Aldnoah.Zero
 - Amaenaide yo!!
@@ -43,6 +44,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Another
 - Ansatsu Kyoushitsu
 - Ansatsu Kyoushitsu (TV): Deai no Jikan
+- Ao Haru Ride
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
 - Arslan Senki
@@ -60,14 +62,19 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Barakamon
 - Beelzebub
 - Beelzebub: Hirotta Akachan wa Daimaou!?
+- Berserk
 - Big Order (TV)
 - Black Bullet
 - Black Lagoon
+- Black Lagoon: The Second Barrage
 - Bleach
+- Blood+
+- Blood Lad
 - Blue Exorcist
 - Boku dake ga Inai Machi
 - Boku wa Konomama Kaeranai
 - Boku wa Tomodachi ga Sukunai
+- Boku wa Tomodachi ga Sukunai Next
 - Bokura wa Minna Kawaisou
 - Bokurano
 - Boku wa Tomodachi ga Sukunai Episode 0
@@ -97,6 +104,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 - Danshi Koukousei no Nichijou
 - Darker than Black: Kuro no Keiyakusha
+- Darker than Black: Ryuusei no Gemini
 - Date A Live
 - Deadman Wonderland
 - Death Note
@@ -110,6 +118,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Doukyuusei (Movie)
 - Dr. Slump: Arale-chan
 - Dragon Ball
+- Dragon Ball GT
 - Dragon Ball Z
 - DRAMAtical Murder OVA: Data_xx_Transitory
 - Druaga no Tou: The Aegis of Uruk
@@ -153,7 +162,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gakusen Toshi Asterisk
 - Gakusen Toshi Asterisk 2nd Season
 - Gamba no Bouken
+- Gangsta.
+- Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 - Gekkan Shoujo Nozaki-kun
+- Ghost in the Shell
 - Gintama
 - Gintama'
 - Gintama': Enchousen
@@ -161,6 +173,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gochuumon wa Usagi Desu ka?
 - Gochuumon wa Usagi Desu ka??
 - Golden Time
+- Gosick
 - Gravitation
 - Gravitation: Lyrics of Love
 - Great Mazinger
@@ -192,6 +205,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - High School DxD New
 - High School DxD New: Oppai, Tsutsumimasu!
 - Higurashi no Naku Koro ni
+- Higurashi no Naku Koro ni Kai
 - Honoo no Mirage
 - Honoo no Mirage: Minagiwa no Hangyakusha
 - Hotaru no Haka
@@ -204,7 +218,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hyouka
 
 ### I
+- Ichiban Ushiro no Daimaou
 - Ikoku Irokoi Romantan
+- Inu x Boku SS
 - InuYasha
 - Inou-Battle wa Nichijou-kei no Naka de
 - IS: Infinite Stratos
@@ -232,12 +248,14 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
 - Katekyo Hitman Reborn!
+- Kaze no Stigma
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
 - Kekkai Sensen
 - Kill la Kill
 - Kimi ni Todoke
 - Kirepapa
 - Kiseijuu: Sei no Kakuritsu
+- Kiss x Sis (TV)
 - Kiznaiver
 - Kizuna
 - Kizuna: Koi no kara Sawagi
@@ -253,6 +271,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kuromukuro
 - Kuma Miko
 - Kuroko no Basket
+- Kuroko no Basket 2nd Season
 - Kuroshitsuji
 - Kuroshitsuji II
 - Kuroshitsuji II Specials
@@ -277,6 +296,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Macross Δ
 - Madoka Magica
 - Magi: Sinbad no Bouken (TV)
+- Magi: The Kingdom of Magi
 - Magi: The Labyrinth of Magic
 - Mahou no Idol Pastel Yumi
 - Mahouka Koukou no Rettousei
@@ -287,6 +307,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mayoiga
 - Mekakucity Actors
 - Mirai Nikki
+- Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
 - Monochrome Factor
 - Monogatari Series: Second season
 - Mononoke Hime
@@ -319,6 +340,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Natsume Yuujinchou Shi
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
+- Neon Genesis Evangelion: The End of Evangelion
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
 - NHK ni Youkoso!
 - Nichijou
@@ -346,12 +368,14 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ore Monogatari!!
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
+- Overlord
 - Owari no Seraph
 - Owari no Seraph: Nagoya Kessen-hen
 - Owarimonogatari
 
 ### P
 - Pan de Peace!
+- Pandora Hearts
 - Papa to Kiss in the Dark
 - Patalliro!
 - Patalliro Saiyuuki!
@@ -393,6 +417,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Robotica*Robotics
 - Rokka no Yuusha
 - Rosario to Vampire
+- Rosario to Vampire Capu2
+- Rurouni Kenshin: Meiji Kenkaku Romantan
 
 ### S
 - Saigo no Door wo Shimero!
@@ -402,6 +428,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sakamoto desu ga?
 - Sakurasou no Pet na Kanojo
 - Samurai Champloo
+- Sankarea
 - Sansha Sanyou
 - School Days
 - Seisen Cerberus: Ryuukoku no Fatalités
@@ -412,6 +439,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sekaiichi Hatsukoi OVA
 - Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
 - Sen to Chiharu no Kamikushi
+- Serial Experiments Lain
 - Sex Pistols
 - Shakugan no Shana
 - Shigatsu wa Kimi no Uso
@@ -434,7 +462,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
 - Steins;Gate: Oukoubakko no Poriomania
 - Steins;Gate: Soumei Eichi no Cognitive Computing
+- Strike the Blood
 - Suki na Mono wa Suki Dakara Shou ga Nai!!
+- Sukitte Ii na yo
+- Summer Wars
 - Super Lovers
 - Sword Art Online
 - Sword Art Online II
@@ -446,6 +477,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya (2009)
+- Toaru Kagaku no Railgun
 - Toaru Majutsu no Index
 - Togainu no Chi
 - Toki wo Kakeru Shoujo
@@ -474,6 +506,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### V
 - Vampire Knight
+- Vampire Knight Guilty
 - Vassalord.
 
 ### W
@@ -500,6 +533,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Zankyou no Terror
 - Zero no Tsukaima
 - Zero no Tsukaima: Futatsuki no Kishi
+- Zero no Tsukaima: Princesses no Rondo
 - Zetsuai 1989
 - Zetsuen no Tempest
 - Zoku Natsume Yuujinchou
