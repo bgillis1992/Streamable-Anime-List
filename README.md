@@ -16,6 +16,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Accel World EX
 - Acchi Kocchi (TV)
 - Acchi Kocchi (TV): Place=Princess
+- Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari
 - Aishen Qiaokeli-ing...
 - Akagami no Shirayuki-hime
 - Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
@@ -45,6 +46,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ansatsu Kyoushitsu
 - Ansatsu Kyoushitsu (TV): Deai no Jikan
 - Ao Haru Ride
+- Ao no Kanata no Four Rhythm
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
 - Arslan Senki
@@ -83,6 +85,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bronze: Zetsuai Since 1989
 - Brotherhood: Final Fantasy XV
 - Btooom!
+- Bubuki Buranki
 - Bungou Stray Dogs
 - Byousoku 5 Centimeter
 
@@ -101,6 +104,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### D
 - D.Gray-man
+- Dagashi Kashi
 - Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 - Danshi Koukousei no Nichijou
 - Darker than Black: Kuro no Keiyakusha
@@ -189,6 +193,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hamatora The Animation
 - Hanamonogatari
 - Haru wo Daite Ita
+- HaruChika: Haruta to Chika wa Seishun Suru
 - Hellsing
 - Hellsing Ultimate
 - Hentai Ouji to Warawanai Neko.
@@ -266,6 +271,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kono Danshi, Sekika ni Nayandemasu.
 - Kono Subarashii Sekai ni Shukufuku wo!
 - Kore wa Zombie Desu ka?
+- Koukaku no Pandora
 - Koutetsujou no Kabaneri
 - Koyomimonogatari
 - Kuromukuro
@@ -290,6 +296,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Love Stage!! OVA
 - Loveless
 - Lovely★Complex
+- Luck & Logic
 - Lucky Star
 
 ### M
@@ -299,6 +306,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Magi: The Kingdom of Magi
 - Magi: The Labyrinth of Magic
 - Mahou no Idol Pastel Yumi
+- Mahou Shoujo Nante Mou li Desukara.
 - Mahouka Koukou no Rettousei
 - Mahoutsukai Precure!
 - Maicching Machiko Sensei
@@ -312,6 +320,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Monogatari Series: Second season
 - Mononoke Hime
 - Monster
+- Musaigen no Phantom World
 - Mushishi
 - Mushishi Shou Special
 - Mushishi Special: Hihamukage
@@ -354,6 +363,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Noragami
 - Noragami Aragoto
 - Noragami OVA
+- Norn9: Norn+Nornet
+- Nurse Witch Komugi-chan R
 
 ### O
 - Okane ga Nai
@@ -365,6 +376,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ookami to Koushinryou II
 - Ookami to Koushinryou II Specials
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
+- Ooyasan wa Shishunki!
 - Ore Monogatari!!
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
@@ -379,6 +391,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Papa to Kiss in the Dark
 - Patalliro!
 - Patalliro Saiyuuki!
+- Phantasy Star Online 2 The Animation
 - Pokemon
 - Pokemon Advanced Generation
 - Pokemon Advanced Generation: Mew to Hadou no Yuusha Lucario
@@ -414,6 +427,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ragnastrike Angels
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
+- Reikenzan: Hoshikuzu-tachi no Utage
 - Robotica*Robotics
 - Rokka no Yuusha
 - Rosario to Vampire
@@ -422,6 +436,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### S
 - Saigo no Door wo Shimero!
+- Saijaku Muhai no Bahamut
 - Saint Seiya: Kamigami no Atsuki Tatakai
 - Saint Seiya: Shinku no Shounen Densetsu
 - Saint Seiya: Tenkai-hen Josou - Overture
@@ -431,6 +446,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sankarea
 - Sansha Sanyou
 - School Days
+- Schwarzesmarken
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Seitokaichou ni Chuukoku
 - Seiyou Kottou Yougashiten: Antique
@@ -449,7 +465,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Shinmai Maou no Testament Burst
 - Shinsekai yori
 - Shokugeki no Souma
+- Shoujo-tachi wa Kouya wo Mezasu
 - Shounen Maid
+- Shouwa Genroku Rakugo Shinjuu
 - Sora no Otoshimono
 - Sora no Otoshimono: Forte
 - Sora no Otoshimono: Project Pink
@@ -471,6 +489,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sword Art Online II
 
 ### T
+- Tabi Machi Late Show
 - Tanaka-kun wa Itsumo Kedaruge
 - Terra Formars Revenge
 - The Devil is a Part-Timer!
