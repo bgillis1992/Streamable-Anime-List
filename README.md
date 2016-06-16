@@ -280,6 +280,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kekkai Sensen
 - Kill la Kill
 - Kimi ni Todoke
+- Kimi to Boku.
+- Kimi to Boku. 2
 - Kirepapa
 - Kiseijuu: Sei no Kakuritsu
 - Kiss x Sis (TV)
@@ -300,6 +302,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kurage no Shokudou
 - Kuromukuro
 - Kuma Miko
+- Kurokami The Animation
 - Kuroko no Basket
 - Kuroko no Basket 2nd Season
 - Kuroshitsuji
@@ -314,6 +317,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### L
 - Legend of Duo
+- Little Busters!
+- Little Busters!: Refrain
 - Log Horizon
 - Log Horizon 2nd Season
 - Love Stage!!
@@ -402,9 +407,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ookami to Koushinryou II
 - Ookami to Koushinryou II Specials
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
+- Ookami-san to Shichinin no Nakama-tachi
 - Ooyasan wa Shishunki!
 - Ore Monogatari!!
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
+- Osomatsu-san
 - Oshiete! Galko-chan
 - Overlord
 - Owari no Seraph
@@ -485,6 +492,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
 - Sekirei
 - Sen to Chiharu no Kamikushi
+- Senyuu.
+- Senyuu. 2
 - Serial Experiments Lain
 - Sex Pistols
 - Shakugan no Shana
@@ -504,8 +513,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sora no Otoshimono: Project Pink
 - Sora no Otoshimono: Tokeijikake no Angeloid
 - Sora no Otoshimono Final: Eternal My Master
+- Sora wo Miageru Shoujo no Hitmomi ni Utauru Sekai
 - Soul Eater
 - Sousei no Onmyouji
+- Starmyu
 - Steins;Gate
 - Steins;Gate: Fuka Ryouiki no Déjà vu
 - Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
@@ -527,6 +538,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya (2009)
+- Tiger & Bunny
 - Toaru Kagaku no Railgun
 - Toaru Majutsu no Index
 - Toaru Majutsu no Index II
@@ -550,6 +562,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### U
 - Uchuu Patrol Luluco
+- Umineko no Naku Koro ni
 - Uta no☆Prince-sama♪ Maji Love 1000%
 - Uta no☆Prince-sama♪ Maji Love 2000%
 - Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
@@ -566,6 +579,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Wagamama High Spec
 - Watamote
 - Wild Adapter
+- Witch Craft Works
 - Wold's Rain
 - Working!!
 
