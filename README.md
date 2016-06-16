@@ -292,6 +292,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kara no Kyoukai 1: Fukan Fuukei
 - Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
+- Karneval
 - Katanagatari
 - Katekyo Hitman Reborn!
 - Kaze no Stigma
@@ -315,6 +316,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kono Subarashii Sekai ni Shukufuku wo!
 - Kore wa Zombie Desu ka?
 - Kore wa Zombie Desu ka? of the Dead
+- Kotoura-san
 - Koukaku no Pandora
 - Koutetsujou no Kabaneri
 - Koyomimonogatari
