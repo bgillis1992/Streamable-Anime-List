@@ -20,6 +20,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Air
 - Air Gear
 - Aishen Qiaokeli-ing...
+- Ajin
 - Akagami no Shirayuki-hime
 - Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page
 - Akagami no Shirayuki-hime 2nd Season
@@ -50,6 +51,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ansatsu Kyoushitsu (TV): Deai no Jikan
 - Ao Haru Ride
 - Ao no Kanata no Four Rhythm
+- Aoharu x Kikanjuu
+- Aoi Bungaku Series
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
 - Arslan Senki
@@ -107,6 +110,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Clannad: After Story
 - Clannad movie
 - Claymore
+- Code:Breaker 
 - Code Geass
 - Code Geass 2
 - Cowboy Bebop
@@ -115,6 +119,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### D
 - D.Gray-man
 - Dagashi Kashi
+- Dance in the Vampire Bund
 - Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 - Danshi Koukousei no Nichijou
 - Darker than Black: Kuro no Keiyakusha
@@ -178,13 +183,18 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### G
 - Gake no Ue no Ponyo
+- Gakkougurashi!
 - Gakuen Heaven
 - Gakusen Toshi Asterisk
 - Gakusen Toshi Asterisk 2nd Season
 - Gamba no Bouken
 - Gangsta.
+- Gantz
+- Gantz 2nd Stage
 - Gate: Jieitai Kanochi nite, Kaku Tatakaeri
+- Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season
 - Gekkan Shoujo Nozaki-kun
+- Ghost Hunt
 - Ghost in the Shell
 - Ghost in the Shell: Stand Alone Complex
 - Gintama
@@ -200,6 +210,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gravitation: Lyrics of Love
 - Great Mazinger
 - Great Teacher Onizuka
+- Grisaia no Kajitsu
+- Grisaia no Rakuen
 - Guilty Crown
 - Gurren Lagann
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
@@ -215,6 +227,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hellsing
 - Hellsing Ultimate
 - Hentai Ouji to Warawanai Neko.
+- Hibike! Euphonium
+- Hibike! Euphonium: Suisougaku-bu no Nichijou
+- Hidan no Aria
+- Hidan no Aria AA
 - Higashi no Eden
 - High School DxD
 - High School Fleet
@@ -254,6 +270,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - IS: Infinite Stratos 2 - World Purge-hen
 
 ### J
+- Jigoku Shoujo
+- Jigoku Shoujo Futakomori
+- Jigoku Shoujo Mitsuganae
 - JoJo no Kimyou na Bouken: Diamond wa Kudakenai
 - Joker Game
 - Junjou Romantica
@@ -345,9 +364,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mayoiga
 - Mekakucity Actors
 - Mirai Nikki
+- Mnemosyne: Mnemosyne no Musume-tachi
 - Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
 - Monochrome Factor
 - Monogatari Series: Second season
+- Mononoke
 - Mononoke Hime
 - Monster
 - Musaigen no Phantom World
@@ -459,6 +480,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### R
 - Ragnastrike Angels
+- Rakudai Kishi no Cavalry
+- Ranpo Kitan: Game of Laplace
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
 - Reikenzan: Hoshikuzu-tachi no Utage
@@ -475,6 +498,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Saint Seiya: Shinku no Shounen Densetsu
 - Saint Seiya: Tenkai-hen Josou - Overture
 - Sakamoto desu ga?
+- Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 - Sakurasou no Pet na Kanojo
 - Samurai Champloo
 - Sankarea
@@ -483,6 +507,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - School Days
 - School Rumble
 - Schwarzesmarken
+- Seirei Tsukai no Blade Dance
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Seitokaichou ni Chuukoku
 - Seiyou Kottou Yougashiten: Antique
@@ -495,14 +520,19 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Senyuu.
 - Senyuu. 2
 - Serial Experiments Lain
+- Servant x Service
 - Sex Pistols
 - Shakugan no Shana
 - Shakugan no Shana II
 - Shigatsu wa Kimi no Uso
+- Shikabane Hime: Aka
+- Shikabane Hime: Kuro
 - Shimoneta to lu Gainen ga Sonzai Shinai Taikutsu na Sekai
 - Shingeki no Kyojin
+- Shingeki! Kyojin Chuugakkou
 - Shinmai Maou no Testament
 - Shinmai Maou no Testament Burst
+- Shinrei Tantei Yakumo
 - Shinsekai yori
 - Shokugeki no Souma
 - Shoujo-tachi wa Kouya wo Mezasu
@@ -523,6 +553,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Steins;Gate: Oukoubakko no Poriomania
 - Steins;Gate: Soumei Eichi no Cognitive Computing
 - Strike the Blood
+- Subete ga F ni Naru: The Perfect Insider
 - Suki na Mono wa Suki Dakara Shou ga Nai!!
 - Sukitte Ii na yo
 - Summer Wars
@@ -532,7 +563,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### T
 - Tabi Machi Late Show
+- Taimadou Gakuen 35 Shiken Shoutai
 - Tanaka-kun wa Itsumo Kedaruge
+- Tasogare Otome x Amnesia
+- Terra Formars
 - Terra Formars Revenge
 - The Devil is a Part-Timer!
 - The Disappearance of Haruhi Suzumiya
@@ -571,6 +605,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Usagi Drop
 
 ### V
+- Valkyrie Drive: Mermaid
 - Vampire Knight
 - Vampire Knight Guilty
 - Vassalord.
@@ -582,8 +617,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Witch Craft Works
 - Wold's Rain
 - Working!!
+- Working'!!
+- Working!!!
 
 ###### X
+- xxxHOLiC
+- xxxHOLiC Kei
 
 ### Y
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
@@ -591,7 +630,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
 - Yamada-kun to 7-nin no Majo
 - Yami no Matsuei
+- Yami Shibai 
+- Yami Shibai 2nd Season
+- Yami Shibai 3rd Season
 - Yebisu Celebrities
+- Yojouhan Shinwa Taikei
 - Yowamushi Pedal
 - Yowamushi Pedal: Grande Road
 - Yu☆Gi☆Oh! Arc-V
