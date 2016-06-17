@@ -100,6 +100,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Byousoku 5 Centimeter
 
 ### C
+- Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou 	
 - Cardcaptor Sakura
 - ChäoS;HEAd
 - Charlotte
@@ -119,6 +120,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### D
 - D.Gray-man
 - Dagashi Kashi
+- Dakara Boku wa, H ga Dekinai.
 - Dance in the Vampire Bund
 - Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 - Danshi Koukousei no Nichijou
@@ -217,9 +219,13 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
 ### H
+- Hagure Yuusha no Aesthetica 	
 - Haikyuu!!
 - Haikyuu!! Second Season
 - Hai to Gensou no Grimgar
+- Haiyoru! Nyaruani: Remember My Love(craft-sensei) 	
+- Haiyore! Nyaruko-san 	
+- Haiyore! Nyaruko-san W 	
 - Hamatora The Animation
 - Hanamonogatari
 - Haru wo Daite Ita
@@ -273,8 +279,15 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Jigoku Shoujo
 - Jigoku Shoujo Futakomori
 - Jigoku Shoujo Mitsuganae
+- JoJo no Kimyou na Bouken 	
+- JoJo no Kimyou na Bouken (2000) 	
+- JoJo no Kimyou na Bouken (TV) 
 - JoJo no Kimyou na Bouken: Diamond wa Kudakenai
+- JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season 		
+- JoJo's Bizarre Adventure: Stardust Crusaders
 - Joker Game
+- Jormungand
+- Jormungand: Perfect Order 	
 - Junjou Romantica
 - Junjou Romantica 2
 - Junjou Romantica 3
@@ -499,6 +512,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Saint Seiya: Kamigami no Atsuki Tatakai
 - Saint Seiya: Shinku no Shounen Densetsu
 - Saint Seiya: Tenkai-hen Josou - Overture
+- Sakamichi no Apollon
 - Sakamoto desu ga?
 - Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 - Sakurasou no Pet na Kanojo
@@ -647,6 +661,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### Z
 - Zankyou no Terror
 - Zero no Tsukaima
+- Zero no Tsukaima F
 - Zero no Tsukaima: Futatsuki no Kishi
 - Zero no Tsukaima: Princesses no Rondo
 - Zetsuai 1989
