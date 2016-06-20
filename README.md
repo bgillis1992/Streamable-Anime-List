@@ -33,6 +33,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akira
 - Akuma no Riddle
 - Aldnoah.Zero
+- Aldnoah.Zero 2nd Season
 - Amaenaide yo!!
 - Amaenaide yo!!: Yasumanaide yo!!
 - Amaenaide yo!! Katsu!!
@@ -75,6 +76,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Beelzebub: Hirotta Akachan wa Daimaou!?
 - Berserk
 - Big Order (TV)
+- Binan Koukou Chikyuu Bouei-bu LOVE!
 - Black Bullet
 - Black Lagoon
 - Black Lagoon: The Second Barrage
@@ -110,6 +112,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Clannad
 - Clannad: After Story
 - Clannad movie
+- Classroom☆Crisis
 - Claymore
 - Code:Breaker 
 - Code Geass
@@ -122,6 +125,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Dagashi Kashi
 - Dakara Boku wa, H ga Dekinai.
 - Dance in the Vampire Bund
+- Dance with Devils
 - Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 - Danshi Koukousei no Nichijou
 - Darker than Black: Kuro no Keiyakusha
@@ -206,6 +210,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gochuumon wa Usagi Desu ka?
 - Gochuumon wa Usagi Desu ka??
 - God Eater
+- Gokukoku no Brynhildr
 - Golden Time
 - Gosick
 - Gravitation
@@ -214,6 +219,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Great Teacher Onizuka
 - Grisaia no Kajitsu
 - Grisaia no Rakuen
+- Gugure! Kokkuri-san
 - Guilty Crown
 - Gurren Lagann
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
@@ -274,6 +280,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - IS: Infinite Stratos 2
 - IS: Infinite Stratos 2 - Hitonatsu no Omoide
 - IS: Infinite Stratos 2 - World Purge-hen
+- Isshuukan Friends.
 
 ### J
 - Jigoku Shoujo
@@ -295,13 +302,16 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### K
 - K
+- K: Return of Kings
 - K-On!
 - K-On!!
 - Kaichou wa Maid-sama
 - Kami nomi zo Shiru Sekai
 - Kami nomi zo Shiru Sekai II
+- Kamigami no Asobi
 - Kamisama Hajimemashita
 - Kamisama Hajimemashita Second Season
+- Kanokon
 - Kara no Kyoukai 1: Fukan Fuukei
 - Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
@@ -347,7 +357,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kuroshitsuji: Book of Circus
 - Kuroshitsuji: Book of Murder
 - Kyoukai no Kanata
-- K: Return of Kings
+- Kyousou Giga (TV)
 
 ### L
 - Legend of Duo
@@ -444,6 +454,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ookami to Koushinryou II Specials
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 - Ookami-san to Shichinin no Nakama-tachi
+- Ookami Shoujo to Kuro Ouji
 - Ooyasan wa Shishunki!
 - Ore Monogatari!!
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
@@ -497,6 +508,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ragnastrike Angels
 - Rakudai Kishi no Cavalry
 - Ranpo Kitan: Game of Laplace
+- RDG: Red Data Girl
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
 - Reikenzan: Hoshikuzu-tachi no Utage
@@ -580,6 +592,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### T
 - Tabi Machi Late Show
 - Taimadou Gakuen 35 Shiken Shoutai
+- Tamako Market
 - Tanaka-kun wa Itsumo Kedaruge
 - Tasogare Otome x Amnesia
 - Terra Formars
