@@ -82,18 +82,17 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Black Lagoon: The Second Barrage
 - Black★Rock Shooter (TV)
 - Bleach
-- Blood+
 - Blood Lad
+- Blood+
 - Blue Exorcist
 - Boku dake ga Inai Machi
 - Boku wa Konomama Kaeranai
 - Boku wa Tomodachi ga Sukunai
+- Boku wa Tomodachi ga Sukunai Episode 0
 - Boku wa Tomodachi ga Sukunai Next
+- Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
 - Bokura wa Minna Kawaisou
 - Bokurano
-- Boku wa Tomodachi ga Sukunai Episode 0
-- Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
-- Boku wa Tomodachi ga Sukunai Next
 - Bronze: Zetsuai Since 1989
 - Brotherhood: Final Fantasy XV
 - Btooom!
@@ -102,21 +101,21 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Byousoku 5 Centimeter
 
 ### C
-- Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou 	
+- Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou 
 - Cardcaptor Sakura
-- ChäoS;HEAd
 - Charlotte
 - Chobits
 - Chuunibyou demo Koi ga Shitai
 - Chuunibyou demo Koi ga Shitai! Ren
+- ChäoS;HEAd
 - Clannad
-- Clannad: After Story
 - Clannad movie
+- Clannad: After Story
 - Classroom☆Crisis
 - Claymore
-- Code:Breaker 
 - Code Geass
 - Code Geass 2
+- Code:Breaker 
 - Cowboy Bebop
 - Cuticle Tantei Inaba
 
@@ -155,8 +154,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### E
 - Earthian
-- ef: A Tale of Memories.
 - ef: A Tale of Melodies.
+- ef: A Tale of Memories.
 - Elfen Lied
 - Endride
 - Ergo Proxy
@@ -175,10 +174,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Fate/Zero
 - FLCL
 - Flying Witch
-- Freezing
-- Freezing Vibrations
 - Free!
 - Free!: Eternal Summer
+- Freezing
+- Freezing Vibrations
 - Fruits Basket
 - Full Metal Panic!
 - Full Metal Panic? Fumoffu
@@ -225,13 +224,13 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
 ### H
-- Hagure Yuusha no Aesthetica 	
+- Hagure Yuusha no Aesthetica 
+- Hai to Gensou no Grimgar
 - Haikyuu!!
 - Haikyuu!! Second Season
-- Hai to Gensou no Grimgar
-- Haiyoru! Nyaruani: Remember My Love(craft-sensei) 	
-- Haiyore! Nyaruko-san 	
-- Haiyore! Nyaruko-san W 	
+- Haiyore! Nyaruko-san 
+- Haiyore! Nyaruko-san W 
+- Haiyoru! Nyaruani: Remember My Love(craft-sensei) 
 - Hamatora The Animation
 - Hanamonogatari
 - Haru wo Daite Ita
@@ -245,16 +244,16 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hidan no Aria AA
 - Higashi no Eden
 - High School DxD
-- High School Fleet
-- Highschool of the Dead
-- Highschool of the Dead: Drifters of the Dead
-- High School DxD Specials
-- High School DxD OVA
 - High School DxD BorN
 - High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video
 - High School DxD BorN: Yomigaeranai Fushichou
 - High School DxD New
 - High School DxD New: Oppai, Tsutsumimasu!
+- High School DxD OVA
+- High School DxD Specials
+- High School Fleet
+- Highschool of the Dead
+- Highschool of the Dead: Drifters of the Dead
 - Higurashi no Naku Koro ni
 - Higurashi no Naku Koro ni Kai
 - Honoo no Mirage
@@ -272,29 +271,29 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### I
 - Ichiban Ushiro no Daimaou
 - Ikoku Irokoi Romantan
+- Inou-Battle wa Nichijou-kei no Naka de
 - Inu x Boku SS
 - InuYasha
-- Inou-Battle wa Nichijou-kei no Naka de
 - IS: Infinite Stratos
-- IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - IS: Infinite Stratos 2
 - IS: Infinite Stratos 2 - Hitonatsu no Omoide
 - IS: Infinite Stratos 2 - World Purge-hen
+- IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - Isshuukan Friends.
 
 ### J
 - Jigoku Shoujo
 - Jigoku Shoujo Futakomori
 - Jigoku Shoujo Mitsuganae
-- JoJo no Kimyou na Bouken 	
-- JoJo no Kimyou na Bouken (2000) 	
+- JoJo no Kimyou na Bouken 
+- JoJo no Kimyou na Bouken (2000) 
 - JoJo no Kimyou na Bouken (TV) 
 - JoJo no Kimyou na Bouken: Diamond wa Kudakenai
-- JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season 		
+- JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season 
 - JoJo's Bizarre Adventure: Stardust Crusaders
 - Joker Game
 - Jormungand
-- Jormungand: Perfect Order 	
+- Jormungand: Perfect Order 
 - Junjou Romantica
 - Junjou Romantica 2
 - Junjou Romantica 3
@@ -302,9 +301,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### K
 - K
-- K: Return of Kings
 - K-On!
 - K-On!!
+- K: Return of Kings
 - Kaichou wa Maid-sama
 - Kami nomi zo Shiru Sekai
 - Kami nomi zo Shiru Sekai II
@@ -343,12 +342,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Koukaku no Pandora
 - Koutetsujou no Kabaneri
 - Koyomimonogatari
-- Kurage no Shokudou
-- Kuromukuro
 - Kuma Miko
+- Kurage no Shokudou
 - Kurokami The Animation
 - Kuroko no Basket
 - Kuroko no Basket 2nd Season
+- Kuromukuro
 - Kuroshitsuji
 - Kuroshitsuji II
 - Kuroshitsuji II Specials
@@ -409,10 +408,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nana
 - Nanatsu no Taizai
 - Naruto
+- Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
 - Naruto: Finally a Clash!! Jounin vs. Genin!
 - Naruto: Find the Crimson Four-leaf Clover!
 - Naruto: Movie 1 - Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!
-- Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
 - Naruto: Movie 3 - Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!
 - Naruto: Shippuuden
 - Naruto: Shippuuden - Jump Super Anime Tour 2013 Special
@@ -449,17 +448,17 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - One Punch Man
 - Onigiri
 - Ookami Kodomo no Ame to Yuki
+- Ookami Shoujo to Kuro Ouji
 - Ookami to Koushinryou
 - Ookami to Koushinryou II
 - Ookami to Koushinryou II Specials
 - Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
 - Ookami-san to Shichinin no Nakama-tachi
-- Ookami Shoujo to Kuro Ouji
 - Ooyasan wa Shishunki!
 - Ore Monogatari!!
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
-- Osomatsu-san
 - Oshiete! Galko-chan
+- Osomatsu-san
 - Overlord
 - Owari no Seraph
 - Owari no Seraph: Nagoya Kessen-hen
@@ -469,8 +468,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Pan de Peace!
 - Pandora Hearts
 - Papa to Kiss in the Dark
-- Patalliro!
 - Patalliro Saiyuuki!
+- Patalliro!
 - Phantasy Star Online 2 The Animation
 - Plastic Memories
 - Pokemon
@@ -541,8 +540,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Seiyou Kottou Yougashiten: Antique
 - Sekaiichi Hatsukoi
 - Sekaiichi Hatsukoi 2
-- Sekaiichi Hatsukoi OVA
 - Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
+- Sekaiichi Hatsukoi OVA
 - Sekirei
 - Sen to Chiharu no Kamikushi
 - Senyuu.
@@ -567,10 +566,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Shounen Maid
 - Shouwa Genroku Rakugo Shinjuu
 - Sora no Otoshimono
+- Sora no Otoshimono Final: Eternal My Master
 - Sora no Otoshimono: Forte
 - Sora no Otoshimono: Project Pink
 - Sora no Otoshimono: Tokeijikake no Angeloid
-- Sora no Otoshimono Final: Eternal My Master
 - Sora wo Miageru Shoujo no Hitmomi ni Utauru Sekai
 - Soul Eater
 - Sousei no Onmyouji
@@ -602,6 +601,13 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - The Melancholy of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya (2009)
 - Tiger & Bunny
+- To LOVE-Ru
+- To LOVE-Ru Darkness
+- To LOVE-Ru Darkness 2nd
+- To LOVE-Ru Darkness 2nd OVA
+- To LOVE-Ru Darkness 2nd Specials
+- To LOVE-Ru Darkness OVA
+- To LOVE-Ru OVA
 - Toaru Kagaku no Railgun
 - Toaru Majutsu no Index
 - Toaru Majutsu no Index II
@@ -612,13 +618,6 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Tonari no Kaibutsu-kun
 - Tonari no Totoro
 - Toradora!
-- To LOVE-Ru
-- To LOVE-Ru OVA
-- To LOVE-Ru Darkness
-- To LOVE-Ru Darkness OVA
-- To LOVE-Ru Darkness 2nd
-- To LOVE-Ru Darkness 2nd Specials
-- To LOVE-Ru Darkness 2nd OVA
 - Trigun
 - Trinity Seven
 - Tsukimonogatari
@@ -626,12 +625,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### U
 - Uchuu Patrol Luluco
 - Umineko no Naku Koro ni
+- Uragiri wa Boku no Namae wo Shitteiru
+- Usagi Drop
 - Uta no☆Prince-sama♪ Maji Love 1000%
 - Uta no☆Prince-sama♪ Maji Love 2000%
 - Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
 - Uta no☆Prince-sama♪ Maji Love Revolutions
-- Uragiri wa Boku no Namae wo Shitteiru
-- Usagi Drop
 
 ### V
 - Valkyrie Drive: Mermaid
@@ -646,8 +645,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Witch Craft Works
 - Wold's Rain
 - Working!!
-- Working'!!
 - Working!!!
+- Working'!!
 
 ###### X
 - xxxHOLiC
@@ -655,8 +654,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### Y
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
-- Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+- Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
 - Yamada-kun to 7-nin no Majo
 - Yami no Matsuei
 - Yami Shibai 
@@ -666,10 +665,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yojouhan Shinwa Taikei
 - Yowamushi Pedal
 - Yowamushi Pedal: Grande Road
-- Yu☆Gi☆Oh! Arc-V
-- Yu☆Gi☆Oh! Duel Monsters
 - Yuru Yuri
 - Yuu☆Yuu☆Hakusho
+- Yu☆Gi☆Oh! Arc-V
+- Yu☆Gi☆Oh! Duel Monsters
 
 ### Z
 - Zankyou no Terror
