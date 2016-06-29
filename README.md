@@ -116,6 +116,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Code Geass
 - Code Geass 2
 - Code:Breaker 
+- Comet Lucifer
 - Cowboy Bebop
 - Cuticle Tantei Inaba
 
@@ -235,6 +236,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hanamonogatari
 - Haru wo Daite Ita
 - HaruChika: Haruta to Chika wa Seishun Suru
+- Heavy Object
 - Hellsing
 - Hellsing Ultimate
 - Hentai Ouji to Warawanai Neko.
@@ -389,6 +391,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mekakucity Actors
 - Mirai Nikki
 - Mnemosyne: Mnemosyne no Musume-tachi
+- Mobile Suit Gundam: Iron-Blooded Orphans
 - Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
 - Monochrome Factor
 - Monogatari Series: Second season
@@ -456,6 +459,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ookami-san to Shichinin no Nakama-tachi
 - Ooyasan wa Shishunki!
 - Ore Monogatari!!
+- Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken
 - Ore no Imouto ga Konnani Kawaii Wake ga Nai
 - Oshiete! Galko-chan
 - Osomatsu-san
@@ -631,6 +635,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Uta no☆Prince-sama♪ Maji Love 2000%
 - Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
 - Uta no☆Prince-sama♪ Maji Love Revolutions
+- Utawarerumono
+- Utawarerumono: Itsuwari no Kamen
 
 ### V
 - Valkyrie Drive: Mermaid
