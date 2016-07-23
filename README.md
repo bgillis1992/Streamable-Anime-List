@@ -28,6 +28,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akaneiro ni Somaru Saka
 - Akaneiro ni Somaru Saka: Hardcore
 - Akatsuki no Yona
+- AKB0048
+- AKB0048 Next Stage
 - Aki-Sora
 - Aki-Sora: Yume no Naka
 - Akira
@@ -270,6 +272,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Highschool of the Dead: Drifters of the Dead
 - Higurashi no Naku Koro ni
 - Higurashi no Naku Koro ni Kai
+- Hiiro no Kakera
+- Hiiro no Kakera Dai Ni Shou
 - Honoo no Mirage
 - Honoo no Mirage: Minagiwa no Hangyakusha
 - Hotaru no Haka
@@ -294,6 +298,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - IS: Infinite Stratos 2 - World Purge-hen
 - IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
 - Isshuukan Friends.
+- Ixion Saga DT
 
 ### J
 - Jigoku Shoujo
@@ -309,6 +314,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Joker Game
 - Jormungand
 - Jormungand: Perfect Order 
+- Joshiraku
 - Junjou Romantica
 - Junjou Romantica 2
 - Junjou Romantica 3
@@ -336,6 +342,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
 - Kekkai Sensen
 - Kill la Kill
+- Kill Me Baby
 - Kimi ni Todoke
 - Kimi to Boku.
 - Kimi to Boku. 2
@@ -375,6 +382,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kuroshitsuji: Book of Circus
 - Kuroshitsuji: Book of Murder
 - Kyoukai no Kanata
+- Kyoukaisenjou no Horizon
+- Kyoukaisenjou no Horizon II
 - Kyousou Giga (TV)
 
 ### L
@@ -415,6 +424,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mononoke
 - Mononoke Hime
 - Monster
+- Mouretsu Pirates
+- Mouretsu Pirates: Abyss of Hyperspace
 - Musaigen no Phantom World
 - Mushishi
 - Mushishi Shou Special
@@ -422,6 +433,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mushishi Zoku Shou
 - Mushishi Zoku Shou 2nd Season
 - Mushishi Zoku Shou: Suzu no Shizuku
+- Muv-Luv Alternative: Total Eclipse
+
 
 ### N
 - Nagi no Asukara
@@ -443,12 +456,16 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Natsume Yuujinchou
 - Natsume Yuujinchou San
 - Natsume Yuujinchou Shi
+- Natsuyuki Rendezvous
 - Nazo no Kanojo X
 - Nazo no Kanojo X: Nazo no Natsu Matsuri
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion: The End of Evangelion
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
+- New Prince of Tennis
+- New Prince of Tennis OVA
+- New Prince of Tennis Specials
 - NHK ni Youkoso!
 - Nichijou
 - Nichijou: Nichijou no 0-wa
@@ -529,6 +546,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 
 ###### Q
+- Queen's Blade: Gyokuza wo Tsugu Mono
+- Queen's Blade OVA
+- Queen's Blade: Rebellion
+- Queen's Blade: Rebellion Specials
+- Queen's Blade: Rurou no Senshi
+- Queen's Blade: Utsukushiki Toushitachi
 
 ### R
 - Ragnastrike Angels
@@ -538,6 +561,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
 - Reikenzan: Hoshikuzu-tachi no Utage
+- Rinne no Lagrange
+- Rinne no Lagrange Kamogawa Days
+- Rinne no Lagrange Season 2
 - Robotica*Robotics
 - Rokka no Yuusha
 - Rosario to Vampire
@@ -571,6 +597,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sekaiichi Hatsukoi OVA
 - Sekirei
 - Sen to Chiharu no Kamikushi
+- Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...
+- Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.
+- Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then...
 - Senyuu.
 - Senyuu. 2
 - Serial Experiments Lain
@@ -669,6 +698,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Valkyrie Drive: Mermaid
 - Vampire Knight
 - Vampire Knight Guilty
+- Vanquished Queens
 - Vassalord.
 
 ### W
