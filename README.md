@@ -38,6 +38,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Amaenaide yo!!: Yasumanaide yo!!
 - Amaenaide yo!! Katsu!!
 - Amaenaide yo!! Katsu!!: Damasarenaide yo!!
+- Amagami SS
+- Amagami SS+ Plus
 - Amagi Brilliant Park
 - Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!
 - Angel Beats!
@@ -54,6 +56,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ao no Kanata no Four Rhythm
 - Aoharu x Kikanjuu
 - Aoi Bungaku Series
+- Aquarion Evol
+- Aquarion Logos
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
 - Arslan Senki
@@ -93,6 +97,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
 - Bokura wa Minna Kawaisou
 - Bokurano
+- Brave 10
 - Bronze: Zetsuai Since 1989
 - Brotherhood: Final Fantasy XV
 - Btooom!
@@ -140,6 +145,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Digimon Adventure
 - Dimension W
 - Divine Gate
+- Dog Days
+- Dog Days'
+- Dog Days''
 - Donten ni Warau
 - Doukyuusei (Movie)
 - Dr. Slump: Arale-chan
@@ -207,6 +215,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gintama'
 - Gintama': Enchousen
 - Gintama°
+- Girls und Panzer
+- Girls und Panzer der Film
+- Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!
+- Girls und Panzer Specials
 - Gochuumon wa Usagi Desu ka?
 - Gochuumon wa Usagi Desu ka??
 - God Eater
@@ -287,6 +299,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Jigoku Shoujo
 - Jigoku Shoujo Futakomori
 - Jigoku Shoujo Mitsuganae
+- Jinrui wa Suitai Shimashita
 - JoJo no Kimyou na Bouken 
 - JoJo no Kimyou na Bouken (2000) 
 - JoJo no Kimyou na Bouken (TV) 
@@ -332,11 +345,15 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kiznaiver
 - Kizuna
 - Kizuna: Koi no kara Sawagi
+- Koi to Senkyo to Chocolate
+- Koi to Senkyo to Chocolate Special
 - Koisuru Boukun
 - Kokoro Connect
 - Kono Danshi, Mahou ga Oshigoto Desu.
 - Kono Danshi, Ningyo Hiroimashita.
 - Kono Danshi, Sekika ni Nayandemasu.
+- Kono Naka ni Hitori, Imouto ga Iru!
+- Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito
 - Kono Subarashii Sekai ni Shukufuku wo!
 - Kore wa Zombie Desu ka?
 - Kore wa Zombie Desu ka? of the Dead
@@ -426,6 +443,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Natsume Yuujinchou
 - Natsume Yuujinchou San
 - Natsume Yuujinchou Shi
+- Nazo no Kanojo X
+- Nazo no Kanojo X: Nazo no Natsu Matsuri
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion: The End of Evangelion
@@ -449,6 +468,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Okane ga Nai
 - One Piece
 - One Punch Man
+- Oniichan dakedo Ai Sae Areba Kankeinai yo ne!
 - Onigiri
 - Ookami Kodomo no Ame to Yuki
 - Ookami Shoujo to Kuro Ouji
@@ -471,6 +491,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### P
 - Pan de Peace!
 - Pandora Hearts
+- Papa no Iukoto wo Kikinasai!
+- Papa no Iukoto wo Kikinasai! OVA
+- Papa no Iukoto wo Kikinasai!: Pokkapoka
 - Papa to Kiss in the Dark
 - Patalliro Saiyuuki!
 - Patalliro!
@@ -576,6 +599,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sora no Otoshimono: Tokeijikake no Angeloid
 - Sora wo Miageru Shoujo no Hitmomi ni Utauru Sekai
 - Soul Eater
+- Sousei no Aquarion
 - Sousei no Onmyouji
 - Starmyu
 - Steins;Gate
@@ -597,6 +621,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Taimadou Gakuen 35 Shiken Shoutai
 - Tamako Market
 - Tanaka-kun wa Itsumo Kedaruge
+- Tari Tari
+- Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari
 - Tasogare Otome x Amnesia
 - Terra Formars
 - Terra Formars Revenge
@@ -625,6 +651,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Trigun
 - Trinity Seven
 - Tsukimonogatari
+- Tsuritama 
 
 ### U
 - Uchuu Patrol Luluco
@@ -672,6 +699,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yowamushi Pedal
 - Yowamushi Pedal: Grande Road
 - Yuru Yuri
+- Yuru Yuri♪♪
+- Yuru Yuri San☆Hai!
 - Yuu☆Yuu☆Hakusho
 - Yu☆Gi☆Oh! Arc-V
 - Yu☆Gi☆Oh! Duel Monsters
@@ -682,6 +711,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Zero no Tsukaima F
 - Zero no Tsukaima: Futatsuki no Kishi
 - Zero no Tsukaima: Princesses no Rondo
+- Zetman
 - Zetsuai 1989
 - Zetsuen no Tempest
 - Zoku Natsume Yuujinchou
