@@ -100,6 +100,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bokura wa Minna Kawaisou
 - Bokurano
 - Brave 10
+- Brothers Conflict
+- Brothers Conflict OVA
+- Brothers Conflict Special
 - Bronze: Zetsuai Since 1989
 - Brotherhood: Final Fantasy XV
 - Btooom!
@@ -685,6 +688,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ### U
 - Uchuu Patrol Luluco
 - Umineko no Naku Koro ni
+- UN-GO
 - Uragiri wa Boku no Namae wo Shitteiru
 - Usagi Drop
 - Uta no☆Prince-sama♪ Maji Love 1000%
