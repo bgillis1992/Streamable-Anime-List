@@ -82,13 +82,17 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Beelzebub: Hirotta Akachan wa Daimaou!?
 - Berserk
 - Big Order (TV)
+- Bikini Warriors
+- Bikini Warriors Special
 - Binan Koukou Chikyuu Bouei-bu LOVE!
 - Black Bullet
 - Black Lagoon
 - Black Lagoon: The Second Barrage
 - Black★Rock Shooter (TV)
+- Blassreiter
 - Bleach
 - Blood Lad
+- Blood Lad: Wagahai wa Neko de wa Nai
 - Blood+
 - Blue Exorcist
 - Boku dake ga Inai Machi
@@ -127,6 +131,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Code Geass 2
 - Code:Breaker 
 - Comet Lucifer
+- Concrete Revolutio: Choujin Gensou
+- Concrete Revolutio: Choujin Gensou - The Last Song
 - Cowboy Bebop
 - Cuticle Tantei Inaba
 
@@ -158,6 +164,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Dr. Slump: Arale-chan
 - Dragon Ball
 - Dragon Ball GT
+- Dragon Ball Super
 - Dragon Ball Z
 - DRAMAtical Murder OVA: Data_xx_Transitory
 - Druaga no Tou: The Aegis of Uruk
