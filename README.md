@@ -402,6 +402,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Little Busters!: Refrain
 - Log Horizon
 - Log Horizon 2nd Season
+- Love Live! School Idol Project
+- Love Live! School Idol Project 2nd Season 
+- Love Live! School Idol Project OVA
+- Love Live! School Idol Project: NEXT LoveLive! 2014
 - Love Stage!!
 - Love Stage!! OVA
 - Loveless
