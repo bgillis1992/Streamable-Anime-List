@@ -635,6 +635,15 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Shoujo-tachi wa Kouya wo Mezasu
 - Shounen Maid
 - Shouwa Genroku Rakugo Shinjuu
+- Slayers
+- Slayers Evolution-R
+- Slayers Excellent
+- Slayers Next
+- Slayers Premium
+- Slayers Revolution
+- Slayers Special
+- Slayers Try
+- Slayers: The Motion Picture
 - Sora no Otoshimono
 - Sora no Otoshimono Final: Eternal My Master
 - Sora no Otoshimono: Forte
