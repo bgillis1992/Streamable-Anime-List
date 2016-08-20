@@ -4,6 +4,21 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ---
 
+### .
+- .hack//G.U. Returner
+- .hack//G.U. Trilogy
+- .hack//G.U. Trilogy: Parody Mode
+- .hack//Gift
+- .hack//Intermezzo
+- .hack//Liminality
+- .hack//Quantum
+- .hack//Roots
+- .hack//Sign
+- .hack//Tasogare no Udewa Densetsu
+- .hack//The Movie: Sekai no Mukou ni
+- .hack//Unison
+- .hack//Versus: The Thanatos Report
+
 ### A
 - Absolute Duo
 - Accel World
