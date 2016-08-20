@@ -4,7 +4,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ---
 
-### .
+### Symbol
 - .hack//G.U. Returner
 - .hack//G.U. Trilogy
 - .hack//G.U. Trilogy: Parody Mode
@@ -18,6 +18,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - .hack//The Movie: Sekai no Mukou ni
 - .hack//Unison
 - .hack//Versus: The Thanatos Report
+ 
+### 0-9
+
 
 ### A
 - Absolute Duo
