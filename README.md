@@ -288,7 +288,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hellsing
 - Hellsing Ultimate
 - Hentai Ouji to Warawanai Neko.
-- Hetaia Axis Powers
+- Hetalia Axis Powers
 - Hibike! Euphonium
 - Hibike! Euphonium: Suisougaku-bu no Nichijou
 - Hidan no Aria
