@@ -189,6 +189,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Dragon Ball GT
 - Dragon Ball Super
 - Dragon Ball Z
+- Dragon Crisis!
 - DRAMAtical Murder OVA: Data_xx_Transitory
 - Druaga no Tou: The Aegis of Uruk
 - Druaga no Tou: The Sword of Uruk
@@ -287,6 +288,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hellsing
 - Hellsing Ultimate
 - Hentai Ouji to Warawanai Neko.
+- Hetaia Axis Powers
 - Hibike! Euphonium
 - Hibike! Euphonium: Suisougaku-bu no Nichijou
 - Hidan no Aria
@@ -425,6 +427,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Little Busters!: Refrain
 - Log Horizon
 - Log Horizon 2nd Season
+- Love Lab
 - Love Live! School Idol Project
 - Love Live! School Idol Project 2nd Season 
 - Love Live! School Idol Project OVA
@@ -496,6 +499,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Natsuyuki Rendezvous
 - Nazo no Kanojo X
 - Nazo no Kanojo X: Nazo no Natsu Matsuri
+- Nekojiru-sou
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion: The End of Evangelion
@@ -551,6 +555,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Papa to Kiss in the Dark
 - Patalliro Saiyuuki!
 - Patalliro!
+- Persona 3 the Movie 1: Spring of Birth
+- Persona 3 the Movie 2: Midsummer Knight's Dream
+- Persona 3 the Movie 3: Falling Down
+- Persona 3 the Movie 4: Winter of Rebirth
 - Phantasy Star Online 2 The Animation
 - Plastic Memories
 - Pokemon
@@ -628,6 +636,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Seitokaichou ni Chuukoku
 - Seiyou Kottou Yougashiten: Antique
+- Sekai Seifuku: Bouryaku no Zvezda
 - Sekaiichi Hatsukoi
 - Sekaiichi Hatsukoi 2
 - Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
@@ -673,6 +682,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sora no Otoshimono: Project Pink
 - Sora no Otoshimono: Tokeijikake no Angeloid
 - Sora wo Miageru Shoujo no Hitmomi ni Utauru Sekai
+- Soredemo Sekai wa Utsukushii
 - Soul Eater
 - Sousei no Aquarion
 - Sousei no Onmyouji
