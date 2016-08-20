@@ -18,9 +18,14 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - .hack//The Movie: Sekai no Mukou ni
 - .hack//Unison
 - .hack//Versus: The Thanatos Report
+- _Summer
+- _Summer Special
  
 ### 0-9
-
+- 00:08
+- 001
+- 009 Re:Cyborg
+- 009-1
 
 ### A
 - Absolute Duo
