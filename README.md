@@ -26,6 +26,18 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - 001
 - 009 Re:Cyborg
 - 009-1
+- 07 Ghost
+- 1001 Nights
+- 11eyes
+- 11eyes: Momoiro Gakuten
+- 12-sai.
+- 12-sai.:Chicchana Mune no Tokimeki
+- 2005-nen Uchuu no Tabi
+- 2010
+- 30-sai no Hoken Taiiku
+- 3x3 Eyes
+- 3x3 Eyes Seima Densetsu
+- 663114
 
 ### A
 - Absolute Duo
