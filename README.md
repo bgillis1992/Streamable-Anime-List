@@ -128,6 +128,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Black★Rock Shooter (TV)
 - Blassreiter
 - Bleach
+- Blood-C
 - Blood Lad
 - Blood Lad: Wagahai wa Neko de wa Nai
 - Blood+
