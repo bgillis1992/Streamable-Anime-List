@@ -531,6 +531,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nijiiro Days
 - Nisekoi
 - Nisemonogatari
+- Noblesse: Awakening
+- Noblesse: The Beginning of Destruction [Korean Dub]
 - No Game No Life
 - Non Non Biyori
 - Non Non Biyori Repeat
