@@ -189,6 +189,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Death Note
 - Death Parade
 - Denpa Onna to Seishun Otoko
+- Devil Survivor 2 The Animation
 - Diabolik Lovers
 - Diabolik Lovers More, Blood
 - Digimon Adventure
