@@ -67,6 +67,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - AKB0048 Next Stage
 - Aki-Sora
 - Aki-Sora: Yume no Naka
+- Akikan!
+- Akikan!: Kan Ippatsu!? Onsen Panic
 - Akira
 - Akuma no Riddle
 - Aldnoah.Zero
@@ -463,6 +465,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mahoutsukai Precure!
 - Maicching Machiko Sensei
 - Majo no Takkyuubin
+- Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo
+- Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo - The TV
 - Marginal Prince: Gekkeiju no Ouji-tachi
 - Mayo Chiki!
 - Mayoiga
@@ -536,6 +540,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### O
 - Okane ga Nai
+- Okusama ga Seitokaichou!
+- Okusama ga Seitokaichou! OVA
 - One Piece
 - One Punch Man
 - Oniichan dakedo Ai Sae Areba Kankeinai yo ne!
