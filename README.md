@@ -464,9 +464,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mahouka Koukou no Rettousei
 - Mahoutsukai Precure!
 - Maicching Machiko Sensei
-- Majo no Takkyuubin
 - Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo
 - Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo - The TV
+- Majo no Takkyuubin
 - Marginal Prince: Gekkeiju no Ouji-tachi
 - Mayo Chiki!
 - Mayoiga
