@@ -154,6 +154,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### C
 - Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou 
+- Canaan
 - Cardcaptor Sakura
 - Charlotte
 - Chobits
@@ -286,6 +287,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gugure! Kokkuri-san
 - Guilty Crown
 - Gurren Lagann
+- Gyakkyou Burai Kaiji: Ultimate Survivor
 - Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
 ### H
@@ -298,6 +300,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Haiyoru! Nyaruani: Remember My Love(craft-sensei) 
 - Hamatora The Animation
 - Hanamonogatari
+- Hanasaku Iroha
 - Haru wo Daite Ita
 - HaruChika: Haruta to Chika wa Seishun Suru
 - Heavy Object
@@ -382,7 +385,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kamigami no Asobi
 - Kamisama Hajimemashita
 - Kamisama Hajimemashita Second Season
+- Kamisama no Memochou
 - Kanokon
+- Kanon (2006)
 - Kara no Kyoukai 1: Fukan Fuukei
 - Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
@@ -424,6 +429,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kurokami The Animation
 - Kuroko no Basket
 - Kuroko no Basket 2nd Season
+- Kuroko no Basket 3rd Season
 - Kuromukuro
 - Kuroshitsuji
 - Kuroshitsuji II
@@ -457,6 +463,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Lucky Star
 
 ### M
+- Maburaho
 - Macross Δ
 - Madoka Magica
 - Magi: Sinbad no Bouken (TV)
@@ -467,6 +474,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mahouka Koukou no Rettousei
 - Mahoutsukai Precure!
 - Maicching Machiko Sensei
+- Mainichi Kaasan
 - Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo
 - Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo - The TV
 - Majo no Takkyuubin
@@ -474,6 +482,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mayo Chiki!
 - Mayoiga
 - Mekakucity Actors
+- Michiko to Hatchin
 - Mirai Nikki
 - Mnemosyne: Mnemosyne no Musume-tachi
 - Mobile Suit Gundam: Iron-Blooded Orphans
@@ -536,6 +545,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Noblesse: Awakening
 - Noblesse: The Beginning of Destruction [Korean Dub]
 - No Game No Life
+- No Game No Life Specials
 - Non Non Biyori
 - Non Non Biyori Repeat
 - Noragami
@@ -687,6 +697,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Shinmai Maou no Testament Burst
 - Shinrei Tantei Yakumo
 - Shinsekai yori
+- Shirobako
 - Shokugeki no Souma
 - Shoujo-tachi wa Kouya wo Mezasu
 - Shounen Maid
@@ -700,16 +711,19 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Slayers Special
 - Slayers Try
 - Slayers: The Motion Picture
+- Smile Precure!
 - Sora no Otoshimono
 - Sora no Otoshimono Final: Eternal My Master
 - Sora no Otoshimono: Forte
 - Sora no Otoshimono: Project Pink
 - Sora no Otoshimono: Tokeijikake no Angeloid
 - Sora wo Miageru Shoujo no Hitmomi ni Utauru Sekai
+- Sore ga Seiyuu!
 - Soredemo Sekai wa Utsukushii
 - Soul Eater
 - Sousei no Aquarion
 - Sousei no Onmyouji
+- Space☆Dandy
 - Starmyu
 - Steins;Gate
 - Steins;Gate: Fuka Ryouiki no Déjà vu
@@ -759,12 +773,14 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Tonari no Kaibutsu-kun
 - Tonari no Totoro
 - Toradora!
+- Triage X
 - Trigun
 - Trinity Seven
 - Tsukimonogatari
 - Tsuritama 
 
 ### U
+- Uchouten Kazoku
 - Uchuu Patrol Luluco
 - Umineko no Naku Koro ni
 - UN-GO
