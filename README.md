@@ -443,6 +443,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Little Busters!: Refrain
 - Log Horizon
 - Log Horizon 2nd Season
+- Loups=Garous
 - Love Lab
 - Love Live! School Idol Project
 - Love Live! School Idol Project 2nd Season 
@@ -521,6 +522,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nekomonogatari: Kuro
 - Neon Genesis Evangelion
 - Neon Genesis Evangelion: The End of Evangelion
+- Nerawareta Gakuen
 - Netoge no Yome wa Onnanoko ja Nai to Omotta?
 - New Prince of Tennis
 - New Prince of Tennis OVA
@@ -748,8 +750,10 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Toaru Kagaku no Railgun
 - Toaru Majutsu no Index
 - Toaru Majutsu no Index II
+- Toaru Majutsu no Index: Endymion no Kiseki
 - Togainu no Chi
 - Toki wo Kakeru Shoujo
+- Tokyo ESP
 - Tokyo Ghoul
 - Tokyo Ghoul √A
 - Tonari no Kaibutsu-kun
