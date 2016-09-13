@@ -307,6 +307,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hellsing
 - Hellsing Ultimate
 - Hentai Ouji to Warawanai Neko.
+- Heroic Age
 - Hetalia Axis Powers
 - Hibike! Euphonium
 - Hibike! Euphonium: Suisougaku-bu no Nichijou
@@ -388,6 +389,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kamisama no Memochou
 - Kanokon
 - Kanon (2006)
+- Kantai Collection: KanColle
 - Kara no Kyoukai 1: Fukan Fuukei
 - Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
@@ -786,6 +788,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - UN-GO
 - Uragiri wa Boku no Namae wo Shitteiru
 - Usagi Drop
+- Ushinawareta Mirai wo Motomete
+- Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete
 - Uta no☆Prince-sama♪ Maji Love 1000%
 - Uta no☆Prince-sama♪ Maji Love 2000%
 - Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
@@ -823,6 +827,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yami Shibai 
 - Yami Shibai 2nd Season
 - Yami Shibai 3rd Season
+- Yami wo Mitsumeru Hane
 - Yebisu Celebrities
 - Yojouhan Shinwa Taikei
 - Yowamushi Pedal
