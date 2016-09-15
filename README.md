@@ -85,6 +85,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Angel Beats! Specials
 - Angel Beats!: Another Epilogue
 - Angel’s Feather
+- Anime de Wakaru Shinryounaika
 - Anne Happy♪
 - Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 - Ano Natsu de Matteru
@@ -126,6 +127,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Black Lagoon
 - Black Lagoon: The Second Barrage
 - Black★Rock Shooter (TV)
+- Blade & Soul
+- Blade & Soul Special
 - Blassreiter
 - Bleach
 - Blood-C
@@ -149,12 +152,15 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Brotherhood: Final Fantasy XV
 - Btooom!
 - Bubuki Buranki
+- Buddy Complex
+- Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de
 - Bungou Stray Dogs
 - Byousoku 5 Centimeter
 
 ### C
 - Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou 
 - Canaan
+- Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life
 - Cardcaptor Sakura
 - Charlotte
 - Chobits
@@ -224,6 +230,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Eureka Seven
 - Evangelion: 1.0 You Are (Not) Alone
 - Evangelion: 2.0 You Can (Not) Advance
+- Eve no Jikan
+- Eve no Jikan (Movie)
 
 ### F
 - Fairy Tail
@@ -246,6 +254,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Fullmetal Alchemist
 - Fullmetal Alchemist: Brotherhood
 - Fullmetal Alchemist: The Conqueror of Shamballa
+- Futakoi
+- Futakoi Alternative 
 - Fuyu no Semi
 
 ### G
