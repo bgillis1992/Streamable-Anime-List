@@ -91,6 +91,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ano Natsu de Matteru
 - Another
 - Ansatsu Kyoushitsu
+- Ansatsu Kyoushitsu (TV) 2nd Season
 - Ansatsu Kyoushitsu (TV): Deai no Jikan
 - Ao Haru Ride
 - Ao no Kanata no Four Rhythm
@@ -164,6 +165,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Cardcaptor Sakura
 - Charlotte
 - Chobits
+- Chou Hatsumei Boy Kanipan
 - Chuunibyou demo Koi ga Shitai
 - Chuunibyou demo Koi ga Shitai! Ren
 - ChäoS;HEAd
@@ -200,6 +202,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Diabolik Lovers
 - Diabolik Lovers More, Blood
 - Digimon Adventure
+- Digimon Adventure Movie
 - Dimension W
 - Divine Gate
 - Dog Days
@@ -208,6 +211,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Donten ni Warau
 - Doukyuusei (Movie)
 - Dr. Slump: Arale-chan
+- Dr. Slump Movie 10: Arale no Bikkuriman
 - Dragon Ball
 - Dragon Ball GT
 - Dragon Ball Super
@@ -311,6 +315,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hamatora The Animation
 - Hanamonogatari
 - Hanasaku Iroha
+- Harlock Saga: Nibelung no Yubiwa
 - Haru wo Daite Ita
 - HaruChika: Haruta to Chika wa Seishun Suru
 - Heavy Object
@@ -339,6 +344,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Higurashi no Naku Koro ni Kai
 - Hiiro no Kakera
 - Hiiro no Kakera Dai Ni Shou
+- Himiko-den
 - Honoo no Mirage
 - Honoo no Mirage: Minagiwa no Hangyakusha
 - Hotaru no Haka
@@ -353,6 +359,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### I
 - Ichiban Ushiro no Daimaou
+- Iketeru Futari
 - Ikoku Irokoi Romantan
 - Inou-Battle wa Nichijou-kei no Naka de
 - Inu x Boku SS
@@ -394,6 +401,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kami nomi zo Shiru Sekai
 - Kami nomi zo Shiru Sekai II
 - Kamigami no Asobi
+- Kamikaze Kaitou Jeanne
 - Kamisama Hajimemashita
 - Kamisama Hajimemashita Second Season
 - Kamisama no Memochou
@@ -567,6 +575,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nurse Witch Komugi-chan R
 
 ### O
+- Ojamajo Doremi
 - Okane ga Nai
 - Okusama ga Seitokaichou!
 - Okusama ga Seitokaichou! OVA
@@ -605,6 +614,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Persona 3 the Movie 2: Midsummer Knight's Dream
 - Persona 3 the Movie 3: Falling Down
 - Persona 3 the Movie 4: Winter of Rebirth
+- Petshop of Horrors
 - Phantasy Star Online 2 The Animation
 - Plastic Memories
 - Pokemon
@@ -660,6 +670,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Rosario to Vampire
 - Rosario to Vampire Capu2
 - Rurouni Kenshin: Meiji Kenkaku Romantan
+- Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen
 
 ### S
 - Saigo no Door wo Shimero!
@@ -678,6 +689,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - School Days
 - School Rumble
 - Schwarzesmarken
+- Seikai no Monshou
 - Seirei Tsukai no Blade Dance
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Seitokaichou ni Chuukoku
@@ -793,6 +805,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### U
 - Uchouten Kazoku
+- Uchuu Kaizoku Mito no Daibouken
 - Uchuu Patrol Luluco
 - Umineko no Naku Koro ni
 - UN-GO
@@ -846,6 +859,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yuru Yuri♪♪
 - Yuru Yuri San☆Hai!
 - Yuu☆Yuu☆Hakusho
+- Yu☆Gi☆Oh! (1999)
 - Yu☆Gi☆Oh! Arc-V
 - Yu☆Gi☆Oh! Duel Monsters
 
