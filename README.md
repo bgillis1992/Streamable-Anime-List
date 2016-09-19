@@ -117,6 +117,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bakuman. 3 Specials
 - Bakuon!!
 - Barakamon
+- Beck
 - Beelzebub
 - Beelzebub: Hirotta Akachan wa Daimaou!?
 - Berserk
