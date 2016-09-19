@@ -464,6 +464,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kyousou Giga (TV)
 
 ### L
+- Ladies versus Butlers!
 - Legend of Duo
 - Little Busters!
 - Little Busters!: Refrain
@@ -564,6 +565,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nisemonogatari
 - Noblesse: Awakening
 - Noblesse: The Beginning of Destruction [Korean Dub]
+- Nodame Cantabile
+- Nodame Cantabile Finale
+- Nodame Cantabile Paris Hen
 - No Game No Life
 - No Game No Life Specials
 - Non Non Biyori
@@ -583,6 +587,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - One Punch Man
 - Oniichan dakedo Ai Sae Areba Kankeinai yo ne!
 - Onigiri
+- Ookami Kakushi
 - Ookami Kodomo no Ame to Yuki
 - Ookami Shoujo to Kuro Ouji
 - Ookami to Koushinryou
@@ -736,6 +741,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Slayers Try
 - Slayers: The Motion Picture
 - Smile Precure!
+- So Ra No Wo To
 - Sora no Otoshimono
 - Sora no Otoshimono Final: Eternal My Master
 - Sora no Otoshimono: Forte
