@@ -83,6 +83,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Amagami SS+ Plus
 - Amagi Brilliant Park
 - Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!
+- Amnesia
+- Amnesia OVA
 - Angel Beats!
 - Angel Beats! Specials
 - Angel Beats!: Another Epilogue
