@@ -41,12 +41,14 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### A
 - Absolute Duo
+- Abunai Sisters: Koko & Mika
 - Accel World
 - Accel World: Acchel World.
 - Accel World EX
 - Acchi Kocchi (TV)
 - Acchi Kocchi (TV): Place=Princess
 - Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari
+- Afro Samurai: Resurrection
 - Ai no Kusabi
 - Ai no Kusabi (2012)
 - Ai Yori Aoshi
@@ -167,6 +169,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Charlotte
 - Chobits
 - Chou Hatsumei Boy Kanipan
+- Chrome Shelled Regios
 - Chuunibyou demo Koi ga Shitai
 - Chuunibyou demo Koi ga Shitai! Ren
 - ChäoS;HEAd
@@ -198,6 +201,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Deadman Wonderland
 - Death Note
 - Death Parade
+- Denpa-teki na Kanojo
 - Denpa Onna to Seishun Otoko
 - Devil Survivor 2 The Animation
 - Diabolik Lovers
@@ -253,6 +257,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Free!: Eternal Summer
 - Freezing
 - Freezing Vibrations
+- Fresh Precure!
 - Fruits Basket
 - Full Metal Panic!
 - Full Metal Panic? Fumoffu
@@ -276,6 +281,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 - Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season
 - Gekkan Shoujo Nozaki-kun
+- Genji Monogatari Sennenki
 - Ghost Hunt
 - Ghost in the Shell
 - Ghost in the Shell: Stand Alone Complex
@@ -312,7 +318,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Haikyuu!! Second Season
 - Haiyore! Nyaruko-san 
 - Haiyore! Nyaruko-san W 
-- Haiyoru! Nyaruani: Remember My Love(craft-sensei) 
+- Haiyoru! Nyaruani: Remember My Love(craft-sensei)
+- Hajime no Ippo: New Challenger
 - Hamatora The Animation
 - Hanamonogatari
 - Hanasaku Iroha
@@ -343,6 +350,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Highschool of the Dead: Drifters of the Dead
 - Higurashi no Naku Koro ni
 - Higurashi no Naku Koro ni Kai
+- Higurashi no Naku Koro ni Rei
 - Hiiro no Kakera
 - Hiiro no Kakera Dai Ni Shou
 - Himiko-den
@@ -360,6 +368,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### I
 - Ichiban Ushiro no Daimaou
+- Ichigo Mashimaro Encore
 - Iketeru Futari
 - Ikoku Irokoi Romantan
 - Inou-Battle wa Nichijou-kei no Naka de
@@ -370,6 +379,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - IS: Infinite Stratos 2 - Hitonatsu no Omoide
 - IS: Infinite Stratos 2 - World Purge-hen
 - IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
+- Isekai no Seikishi Monogatari
 - Isshuukan Friends.
 - Ixion Saga DT
 
@@ -418,6 +428,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kaze no Stigma
 - Kaze to Ki no Uta Sanctus: Sei Naru Kana
 - Kekkai Sensen
+- Kemono no Souja Erin
+- Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!
 - Kill la Kill
 - Kill Me Baby
 - Kimi ni Todoke
@@ -429,6 +441,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kiznaiver
 - Kizuna
 - Kizuna: Koi no kara Sawagi
+- Kodomo no Jikan: Ni Gakki
 - Koi to Senkyo to Chocolate
 - Koi to Senkyo to Chocolate Special
 - Koisuru Boukun
@@ -500,11 +513,22 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo
 - Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo - The TV
 - Majo no Takkyuubin
+- Major Movie: Yuujou no Winning Shot
+- Major S1
+- Major S2
+- Major S3
+- Major S4
+- Major S5
+- Major S6
+- Major: Message
+- Major: World Series
+- Maria-sama ga Miteru 4th
 - Marginal Prince: Gekkeiju no Ouji-tachi
 - Mayo Chiki!
 - Mayoiga
 - Mekakucity Actors
 - Michiko to Hatchin
+- Minami-ke Okaeri
 - Mirai Nikki
 - Mnemosyne: Mnemosyne no Musume-tachi
 - Mobile Suit Gundam: Iron-Blooded Orphans
@@ -578,6 +602,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Noragami OVA
 - Norn9: Norn+Nornet
 - Nurse Witch Komugi-chan R
+- Nyoro-n Churuya-san
 
 ### O
 - Ojamajo Doremi
@@ -646,6 +671,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Pokemon: Mizu no Miyako no Mamorigami Latias to Latios
 - Pokemon: Senritsu no Mirage Pokemon
 - Pokemon: The Origin
+- Precure All Stars Movie DX: Minna Tomodachi☆Kiseki no Zenin Daishuugou!
 - Prince of Stride: Alternative
 - Prison School
 - Psycho Pass
@@ -667,7 +693,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - RDG: Red Data Girl
 - Re:Zero kara Hajimeru Break Time
 - Re:Zero kara Hajimeru Isekai Seikatsu
+- Redline
 - Reikenzan: Hoshikuzu-tachi no Utage
+- RideBack
 - Rinne no Lagrange
 - Rinne no Lagrange Kamogawa Days
 - Rinne no Lagrange Season 2
@@ -748,9 +776,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sora no Otoshimono: Forte
 - Sora no Otoshimono: Project Pink
 - Sora no Otoshimono: Tokeijikake no Angeloid
+- Sora wo Kakeru Shoujo
 - Sora wo Miageru Shoujo no Hitmomi ni Utauru Sekai
 - Sore ga Seiyuu!
 - Soredemo Sekai wa Utsukushii
+- Soukou Kihei Votoms: Pailsen Files
 - Soul Eater
 - Sousei no Aquarion
 - Sousei no Onmyouji
@@ -767,6 +797,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sukitte Ii na yo
 - Summer Wars
 - Super Lovers
+- Suzumiya Haruhi-chan no Yuuutsu
 - Sword Art Online
 - Sword Art Online II
 
@@ -780,6 +811,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Tasogare Otome x Amnesia
 - Terra Formars
 - Terra Formars Revenge
+- Tetsuwan Birdy Decode:02
 - The Devil is a Part-Timer!
 - The Disappearance of Haruhi Suzumiya
 - The Melancholy of Haruhi Suzumiya
@@ -795,7 +827,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Toaru Kagaku no Railgun
 - Toaru Majutsu no Index
 - Toaru Majutsu no Index II
-- Toaru Majutsu no Index: Endymion no Kiseki
+- Toaru Majutsu no Index: Endymion no Kiseki\
+- Toaru Majutsu no Index-tan
 - Togainu no Chi
 - Toki wo Kakeru Shoujo
 - Tokyo ESP
@@ -804,9 +837,11 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Tonari no Kaibutsu-kun
 - Tonari no Totoro
 - Toradora!
+- Toradora!: SOS!
 - Triage X
 - Trigun
 - Trinity Seven
+- Tsubasa: Shunraiki
 - Tsukimonogatari
 - Tsuritama 
 
@@ -833,10 +868,12 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Vampire Knight Guilty
 - Vanquished Queens
 - Vassalord.
+- Viper's Creed
 
 ### W
 - Wagamama High Spec
 - Watamote
+- White Album
 - Wild Adapter
 - Witch Craft Works
 - Wold's Rain
@@ -847,6 +884,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 ###### X
 - xxxHOLiC
 - xxxHOLiC Kei
+- xxxHOLiC Shunmuki
 
 ### Y
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
