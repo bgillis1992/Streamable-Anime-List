@@ -106,6 +106,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
 - Arslan Senki
+- Asobi ni Iku yo!
 - Asu no Yoichi!
 - Azumanga Daioh
 
@@ -120,6 +121,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Bakuman. 2 Special
 - Bakuman. 3 Specials
 - Bakuon!!
+- Bakuretsu Tenshi
+- Bakuretsu Tenshi: Infinity
 - Barakamon
 - Beck
 - Beelzebub
@@ -168,6 +171,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Canaan
 - Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life
 - Cardcaptor Sakura
+- Casshern Sins
 - Charlotte
 - Chobits
 - Chou Hatsumei Boy Kanipan
@@ -200,6 +204,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Darker than Black: Kuro no Keiyakusha
 - Darker than Black: Ryuusei no Gemini
 - Date A Live
+- Date A Live Movie: Mayuri Judgment
 - Deadman Wonderland
 - Death Note
 - Death Parade
