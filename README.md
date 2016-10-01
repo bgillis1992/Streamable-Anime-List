@@ -813,6 +813,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Taimadou Gakuen 35 Shiken Shoutai
 - Tamako Market
 - Tanaka-kun wa Itsumo Kedaruge
+- Tantei Team KZ Jiken Note
 - Tari Tari
 - Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari
 - Tasogare Otome x Amnesia
@@ -858,6 +859,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Uchuu Patrol Luluco
 - Umineko no Naku Koro ni
 - UN-GO
+- Under the Dog
 - Uragiri wa Boku no Namae wo Shitteiru
 - Usagi Drop
 - Ushinawareta Mirai wo Motomete
@@ -871,6 +873,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### V
 - Valkyrie Drive: Mermaid
+- Vampire Holmes
 - Vampire Knight
 - Vampire Knight Guilty
 - Vanquished Queens
