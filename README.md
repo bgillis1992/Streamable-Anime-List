@@ -105,6 +105,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Aquarion Logos
 - Arakawa Under the Bridge
 - Arakawa Under the Bridge x Bridge
+- Area no Kishi
 - Arslan Senki
 - Asobi ni Iku yo!
 - Asu no Yoichi!
@@ -191,6 +192,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Concrete Revolutio: Choujin Gensou
 - Concrete Revolutio: Choujin Gensou - The Last Song
 - Cowboy Bebop
+- Cross Ange: Tenshi to Ryuu no Rondo
 - Cuticle Tantei Inaba
 
 ### D
@@ -260,6 +262,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Fate/Zero
 - FLCL
 - Flying Witch
+- Francesca
 - Free!
 - Free!: Eternal Summer
 - Freezing
@@ -545,6 +548,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Mononoke
 - Mononoke Hime
 - Monster
+- Monster Hunter Stories: Ride On
 - Mouretsu Pirates
 - Mouretsu Pirates: Abyss of Hyperspace
 - Musaigen no Phantom World
@@ -887,6 +891,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Wild Adapter
 - Witch Craft Works
 - Wold's Rain
+- World Trigger
 - Working!!
 - Working!!!
 - Working'!!
