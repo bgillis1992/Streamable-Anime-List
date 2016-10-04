@@ -432,6 +432,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Kara no Kyoukai 1: Fukan Fuukei
 - Kare Baka: Wagahai no Kare wa Baka de R
 - Karigurashi no Arrietty
+- Karin
 - Karneval
 - Katanagatari
 - Katekyo Hitman Reborn!
@@ -565,6 +566,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nagi no Asukara
 - Nana
 - Nanatsu no Taizai
+- Nanatsu no Taizai: Seisen no Shirushi
 - Naruto
 - Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
 - Naruto: Finally a Clash!! Jounin vs. Genin!
@@ -658,6 +660,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Persona 3 the Movie 4: Winter of Rebirth
 - Petshop of Horrors
 - Phantasy Star Online 2 The Animation
+- Planetes
 - Plastic Memories
 - Pokemon
 - Pokemon Advanced Generation
