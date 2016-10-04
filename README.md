@@ -174,6 +174,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Cardcaptor Sakura
 - Casshern Sins
 - Charlotte
+- Charlotte Special
 - Chobits
 - Chou Hatsumei Boy Kanipan
 - Chrome Shelled Regios
