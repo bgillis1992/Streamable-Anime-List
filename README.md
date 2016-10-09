@@ -75,6 +75,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Akuma no Riddle
 - Aldnoah.Zero
 - Aldnoah.Zero 2nd Season
+- All OUT!!
 - Amaenaide yo!!
 - Amaenaide yo!!: Yasumanaide yo!!
 - Amaenaide yo!! Katsu!!
@@ -609,6 +610,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Nodame Cantabile Paris Hen
 - No Game No Life
 - No Game No Life Specials
+- Noir
 - Non Non Biyori
 - Non Non Biyori Repeat
 - Noragami
