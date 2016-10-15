@@ -705,6 +705,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 
 ### R
 - Ragnastrike Angels
+- Rail Wars!
 - Rakudai Kishi no Cavalry
 - Ranpo Kitan: Game of Laplace
 - RDG: Red Data Girl
@@ -751,6 +752,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
 - Sekaiichi Hatsukoi OVA
 - Sekirei
+- Sekirei: Pure Engagement
 - Sen to Chiharu no Kamikushi
 - Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...
 - Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.
@@ -843,6 +845,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - To LOVE-Ru Darkness OVA
 - To LOVE-Ru OVA
 - Toaru Kagaku no Railgun
+- Toaru Kagaku no Railgun S
 - Toaru Majutsu no Index
 - Toaru Majutsu no Index II
 - Toaru Majutsu no Index: Endymion no Kiseki\
@@ -919,6 +922,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yami wo Mitsumeru Hane
 - Yebisu Celebrities
 - Yojouhan Shinwa Taikei
+- Yosuga no Sora: In Solitude, Where We Are Least Alone.
 - Yowamushi Pedal
 - Yowamushi Pedal: Grande Road
 - Yuru Yuri
@@ -928,6 +932,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Yu☆Gi☆Oh! (1999)
 - Yu☆Gi☆Oh! Arc-V
 - Yu☆Gi☆Oh! Duel Monsters
+- Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.
 
 ### Z
 - Zankyou no Terror
