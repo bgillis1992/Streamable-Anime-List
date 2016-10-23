@@ -198,6 +198,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Cuticle Tantei Inaba
 
 ### D
+- D-Frag
+- D-Frag OVA
 - D.Gray-man
 - Dagashi Kashi
 - Dakara Boku wa, H ga Dekinai.
@@ -366,6 +368,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hiiro no Kakera
 - Hiiro no Kakera Dai Ni Shou
 - Himiko-den
+- Himouto! Umaru-chan
 - Honoo no Mirage
 - Honoo no Mirage: Minagiwa no Hangyakusha
 - Hotaru no Haka
@@ -374,6 +377,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Hundred
 - Hunter x Hunter (2011)
 - Huyao Xiao Hongniang
+- Hyakka Ryouran: Samurai Girls
+- Hyakka Ryouran: Samurai Bride
 - Hyakujitsu no Bara
 - Hybrid Child
 - Hyouka
