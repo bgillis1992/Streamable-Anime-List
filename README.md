@@ -747,6 +747,8 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - School Rumble
 - Schwarzesmarken
 - Seikai no Monshou
+- Seikon no Qwaser
+- Seikon no Qwaser II
 - Seirei Tsukai no Blade Dance
 - Seisen Cerberus: Ryuukoku no Fatalités
 - Seitokaichou ni Chuukoku
