@@ -300,6 +300,9 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Fairy Tail OVA
 - Fairy Tail x Rave
 - Fake
+- Fatal Fury: The Motion Picture
+- Fatal Fury 2: The New Battle
+- Fatal Fury: Legend of the Hungry Wolf
 - Fate/kaleid liner Prisma☆Illya
 - Fate/kaleid liner Prisma☆Illya 2wei Herz!
 - Fate/kaleid liner Prisma☆Illya 2wei!
@@ -346,6 +349,7 @@ Below is the list of anime that can be streamed. List is regularly updated, keep
 - Ghost Hunt
 - Ghost in the Shell
 - Ghost in the Shell: Stand Alone Complex
+- Giant Killing
 - Gintama
 - Gintama'
 - Gintama': Enchousen
